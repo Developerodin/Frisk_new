@@ -41,6 +41,20 @@
     <!-- Theme Custom CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
 
+    <style>
+        @keyframes animate {
+            100% {
+                transform: translateX(-3114.77px);
+            }
+        }
+
+        .motion {
+            width: 100000px;
+            transform: translateX(0px);
+            animation: 46.4s linear 0s infinite normal none running animate;
+        }
+    </style>
+
 </head>
 
 <body>
@@ -251,7 +265,8 @@
                                             </span>
                                         </a>
                                         <ul class="sub-menu">
-                                            <li class="active"><a href="<?php echo base_url('main');?>">Digital Agency</a></li>
+                                            <li class="active"><a href="<?php echo base_url('main');?>">Digital
+                                                    Agency</a></li>
                                             <li><a href="<?php echo base_url('home2');?>">Creative Agency</a></li>
                                             <li><a href="<?php echo base_url('home3');?>">Design Studio</a></li>
                                             <li><a href="<?php echo base_url('home4');?>">Digital Marketing</a></li>
