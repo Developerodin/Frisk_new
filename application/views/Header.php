@@ -265,15 +265,15 @@
                                             </span>
                                         </a>
                                         <ul class="sub-menu">
-                                            <li class="active"><a href="<?php echo base_url('main');?>">Digital
+                                            <li class="active"><a href="<?php echo base_url('/');?>">Digital
                                                     Agency</a></li>
-                                            <li><a href="<?php echo base_url('home2');?>">Creative Agency</a></li>
-                                            <li><a href="<?php echo base_url('home3');?>">Design Studio</a></li>
-                                            <li><a href="<?php echo base_url('home4');?>">Digital Marketing</a></li>
-                                            <li><a href="<?php echo base_url('home5');?>">Modern Agency</a></li>
-                                            <li><a href="<?php echo base_url('home6');?>">Creative Studio</a></li>
-                                            <li><a href="<?php echo base_url('home7');?>">Startup Agency</a></li>
-                                            <li><a href="<?php echo base_url('home8');?>">Personal Portfolio</a>
+                                            <li><a href="<?php echo base_url('Home2');?>">Creative Agency</a></li>
+                                            <li><a href="<?php echo base_url('Home3');?>">Design Studio</a></li>
+                                            <li><a href="<?php echo base_url('Home4');?>">Digital Marketing</a></li>
+                                            <li><a href="<?php echo base_url('Home5');?>">Modern Agency</a></li>
+                                            <li><a href="<?php echo base_url('Home6');?>">Creative Studio</a></li>
+                                            <li><a href="<?php echo base_url('Home7');?>">Startup Agency</a></li>
+                                            <li><a href="<?php echo base_url('Home8');?>">Personal Portfolio</a>
                                             </li>
                                         </ul>
                                     </li>

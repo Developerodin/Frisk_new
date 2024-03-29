@@ -11,8 +11,9 @@
                       <h1 class="hero-title text-lg-end wow img-custom-anim-right animated" data-wow-duration="1.7s" data-wow-delay="0.1s">Not Temporary Buzz</h1>
                   </div>
                   <div class="col-lg-6 offset-lg-6">
-                      <p class="hero-text wow img-custom-anim-right animated" data-wow-duration="1.5s" data-wow-delay="0.1s">We are digital agency that helps businesses develop immersive and engaging user experiences that drive top level growth	Our ensured news articles are promptly featured on the foremost news platforms worldwide.
+                      <p class="hero-text wow img-custom-anim-right animated" data-wow-duration="1.5s" data-wow-delay="0.1s">Our ensured news articles are promptly featured on the foremost news platforms worldwide.
 
+.
 </p>
                       <div class="btn-group fade_right">
                           <a href="project.html" class="btn wow img-custom-anim-right animated" >
@@ -24,9 +25,9 @@
                       </div>
                   </div>
               </div>
-            <div class="hero-year-tag wow img-custom-anim-left animated">
+            <!--<div class="hero-year-tag wow img-custom-anim-left animated">
                   <img src="assets/img/icon/worldwide.svg" alt="img">
-                  <h6>Agency of this year worldwide</h6>
+                  <h6>Agency of this year worldwide</h6>-->
               </div>
           </div>
       </div>
@@ -255,8 +256,10 @@
   Pricing
   ==============================-->
   <div>
-<h2 style="text-align:center;">Pricing</h2>
+<h2 style="text-align:center; margin-top:60px;margin-bottom:60px;">Pricing</h2>
 </div>
+<div class="space">
+        <div class="container">
 <div class="row gy-4 justify-content-center">
                 <div class="col-lg-4 col-md-6">
                     <div class="pricing-card bg-smoke">
@@ -272,7 +275,6 @@
                                 <li><i class="fas fa-check"></i> 1 Year</li>
                                 <li><i class="fas fa-check"></i> Money Back Guarantee*</li>
                                 <li><i class="fas fa-check"></i> Cancellation:Anytime After The Term</li>
-                                <li><i class="fas fa-check"></i> Web Design</li>
                             </ul>
                         </div>
                         <a href="project.html" class="btn">
@@ -297,7 +299,7 @@
                                 <li><i class="fas fa-check"></i> 3 Months</li>
                                 <li><i class="fas fa-check"></i> Money Back Guarantee*</li>
                                 <li><i class="fas fa-check"></i> Canclltion:Anytime After The Term</li>
-                                <li><i class="fas fa-check"></i> Web Design</li>
+                               
                             </ul>
                         </div>
                         <a href="project.html" class="btn">
@@ -322,7 +324,7 @@
                                 <li><i class="fas fa-check"></i> Monthly</li>
                                 <li><i class="fas fa-check"></i> Money Back Guarantee</li>
                                 <li><i class="fas fa-check"></i> Cancellation:Anytime After The Term</li>
-                                <li><i class="fas fa-check"></i> Web Design</li>
+                              
                             </ul>
                         </div>
                         <a href="project.html" class="btn">
@@ -332,6 +334,8 @@
                     </div>
                 </div>
             </div>
+        </div>
+</div>
 
 
   <!--==============================
