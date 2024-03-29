@@ -12,8 +12,7 @@
           </div>
           <div class="col-lg-5">
             <div class="footer-top-wrap">
-              <p class="mb-30">We are digital agency that helps businesses develop immersive and engaging user
-                experiences</p>
+              <p class="mb-30">Our relentless commitment to excellence, combined with our dedication to understanding our clients' unique needs, allows us to create tailored PR campaigns that resonate with audiences and drive tangible results.</p>
               <a href="contact.html" class="btn">
                 <span class="link-effect">
                   <span class="effect-1">LET'S TALK WITH US</span>
@@ -138,3 +137,25 @@
       </path>
     </svg>
   </div>
+ <!-- Jquery -->
+ <script src="https://code.jquery.com/jquery-1.12.4.js" integrity="sha256-Qw82+bXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU=" crossorigin="anonymous"></script>
+ <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
+ <script src="assets/js/slick.min.js"></script>
+ <script src="assets/js/bootstrap.min.js"></script>
+ <script src="assets/js/jquery.magnific-popup.min.js"></script>
+ <script src="assets/js/jquery.counterup.min.js"></script>
+ <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+ <script src="assets/js/isotope.pkgd.min.js"></script>
+ <script src="assets/js/gsap.min.js"></script>
+ <script src="assets/js/ScrollSmoother.min.js"></script>
+ <script src="assets/js/ScrollTrigger.min.js"></script>
+ <script src="assets/js/SplitText.min.js"></script>
+ <script src="assets/js/twinmax.js"></script>
+ <script src="assets/js/imageRevealHover.js"></script>
+ <script src="assets/js/jarallax.min.js"></script>
+ <script src="assets/js/jquery.marquee.min.js"></script>
+ <script src="assets/js/waypoints.js"></script>
+ <script src="assets/js/wow.js"></script>
+
+ <!-- Main Js File -->
+ <script src="assets/js/main.js"></script>
