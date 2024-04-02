@@ -89,25 +89,25 @@
         <div class="row gy-3 justify-content-between align-items-center">
           <div class="col-md-6">
             <div class="social-btn style3">
-              <a href="https://www.facebook.com/">
+              <a href="#">
                 <span class="link-effect">
                   <span class="effect-1"><i class="fab fa-facebook"></i></span>
                   <span class="effect-1"><i class="fab fa-facebook"></i></span>
                 </span>
               </a>
-              <a href="https://instagram.com/">
+              <a href="#">
                 <span class="link-effect">
                   <span class="effect-1"><i class="fab fa-instagram"></i></span>
                   <span class="effect-1"><i class="fab fa-instagram"></i></span>
                 </span>
               </a>
-              <a href="https://twitter.com/">
+              <a href="#">
                 <span class="link-effect">
                   <span class="effect-1"><i class="fab fa-twitter"></i></span>
                   <span class="effect-1"><i class="fab fa-twitter"></i></span>
                 </span>
               </a>
-              <a href="https://dribbble.com/">
+              <a href="#">
                 <span class="link-effect">
                   <span class="effect-1"><i class="fab fa-dribbble"></i></span>
                   <span class="effect-1"><i class="fab fa-dribbble"></i></span>
@@ -117,7 +117,7 @@
           </div>
           <div class="col-md-6 align-self-center text-lg-end">
             <p class="copyright-text">Copyright © 2024
-              <a href="https://themeforest.net/user/themegenix">ThemeGenix</a>
+              <a href="#">TheOdin</a>
             </p>
           </div>
         </div>
