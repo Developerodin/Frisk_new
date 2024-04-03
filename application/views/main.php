@@ -65,10 +65,102 @@
         </div>
     </div>
 
+      <!--==============================
+    Marquee Area
+    ==============================-->
+    <div class="container-fluid p-0 overflow-hidden">
+        <div class="slider__marquee clearfix marquee-wrap">
+            <div class="marquee_mode marquee__group">
+                <h6 class="item m-item"><a href="#"><i class="fas fa-star-of-life"></i> Guarenteed Publicity</a></h6>
+                <h6 class="item m-item"><a href="#"><i class="fas fa-star-of-life"></i> Money Back Guarentee</a></h6>
+            </div>
+        </div>
+    </div>
+
+     <!--==============================
+    Client Area
+    ==============================-->
+    <div class="client-area-2 overflow-hidden space">
+        <div class="container">
+            <div class="row gy-4">
+                <div class="col-lg-12 col-md-6">
+                
+                    <div class="client-card" style="display:flex; height:200px;">
+                    <div class="col-lg-3" style="border:1px solid black;">
+                    <div class="pen">
+                        <img src="assets/img/client/client-1-1.webp" alt="img">
+                    <div class="eraser">
+                        <img src="assets/img/client/client-1-1.webp" alt="img">
+                        </div>
+                    </div>  
+                    </div>
+                        <div class="col-lg-3" style="border:1px solid black;">
+                        <div class="pen">
+                        <img src="assets/img/client/client-1-2.webp" alt="img" style="height:180px;">
+                        <div class="eraser">
+                            <img src="assets/img/client/client-1-2.webp" alt="img" style="height:180px;">
+                    </div></div>
+                        </div>
+                        <div class="col-lg-3" style="border:1px solid black;">
+                        <div class="pen">
+                        <img src="assets/img/client/client-1-3.webp" alt="img">
+                        <div class="eraser">
+                        <img src="assets/img/client/client-1-3.webp" alt="img">
+                        </div>
+                        </div>
+                        </div>
+                        <div class="col-lg-3" style="border:1px solid black;">
+                        <div class="pen">
+                        <img src="assets/img/client/client-1-4.png" alt="img" style="height:170px;">
+                        <div class="eraser">
+                        <img src="assets/img/client/client-1-4.png" alt="img" style="height:170px;">
+                        </div>
+                        </div>
+                        </div>
+                    </div>
+                    <div class="client-card" style="display:flex; height:200px;">
+                        <div class="col-lg-3" style="border:1px solid black;">
+                        <div class="pen">
+                        <img src="assets/img/client/client-1-5(edited).jpg" alt="img"style="width:90%; height:190px;">
+                        <div class="eraser">
+                        <img src="assets/img/client/client-1-5(edited).jpg" alt="img"style="width:90%; height:190px;">
+                        </div>
+                        </div>
+                        </div>
+                        <div class="col-lg-3" style="border:1px solid black;">
+                        <div class="pen">
+                        <img src="assets/img/client/client-1-7.webp" alt="img">
+                        <div class="eraser">
+                        <img src="assets/img/client/client-1-7.webp" alt="img">
+                        </div>
+                        </div>
+                        </div>
+                        <div class="col-lg-3" style="border:1px solid black;">
+                        <div class="pen">
+                        <img src="assets/img/client/client-1-8.webp" alt="img" style="height:190px;">
+                        <div class="eraser">
+                        <img src="assets/img/client/client-1-8.webp" alt="img"  style="height:190px;">  
+                        </div>
+                        </div>
+                        </div>
+                        <div class="col-lg-3" style="border:1px solid black;">
+                        <div class="pen">
+                        <img src="assets/img/client/client-1-9.webp" alt="img">
+                        <div class="eraser">
+                        <img src="assets/img/client/client-1-9.webp" alt="img">
+                        </div>
+                        </div>
+                        </div>
+                    </div>
+            </div>
+            </div>
+        </div>
+    </div>
+   
     <!--==============================
   Faq Area
   ==============================-->
-    <div class="faq-area-1 space overflow-hidden">
+    <div class="faq-area-1 ">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-8">
@@ -256,10 +348,10 @@
   How it works
   ==============================-->
     <div>
-        <h2 style="text-align:center; margin-bottom:60px;">How it works</h2>
+        <h2 style="text-align:center; margin-bottom:70px; margin-top:90px;">How it works</h2>
     </div>
     <div class="container">
-        <div class="row gy-4 justify-content-center">
+        <div class="row gy-4 justify-content-center ">
             <div class="col-lg-5 col-md-6">
                 <div id="carouselExample" class="carousel carousel-dark slide" style="border:1px solid grey; border-radius:15px">
                     <div class="carousel-inner" style=" border-radius:15px">
@@ -318,16 +410,62 @@
 
             <div class="col-lg-7 col-md-6">
                 <div class="row gy-4" style="margin: 10px;">
-                    <div class="col lg-6 col-md-6" style="width: 100px;  line-height:80px;">
-                        <img src="assets/img/hiw/how_1.webp">
+                  
+                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center" >
+                    <img src="assets/img/hiw/how_1.webp">
+                    </div>
+                    <div class="col-lg-10 col-sm-12 d-flex justify-content-center  text-center align-items-center text-align-center">
+                    <span style="font-size:large">Speak to our team about your business & objectives.</span>
+                    </div>
+                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center" >
+                    <img src="assets/img/hiw/how_2.webp">
+                    </div>
+                    <div class="col-lg-10 col-sm-12 d-flex justify-content-center  text-center align-items-center text-align-center">
+                    <span style="font-size:large">Get Published on Global News Sites, as per our FAQs.</span>
+                    </div>
+                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center" >
+                    <img src="assets/img/hiw/how_3.webp">
+                    </div>
+                    <div class="col-lg-10 col-sm-12 d-flex justify-content-center  text-center align-items-center text-align-center">
+                    <span style="font-size:large">Our writers then research and then write an article for your review.</span>
+                    </div>
+                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center" >
+                    <img src="assets/img/hiw/how_4.webp">
+                    </div>
+                    <div class="col-lg-10 col-sm-12 d-flex justify-content-center  text-center align-items-center text-align-center">
+                    <span style="font-size:large">We collate and email you a list of live URLs to with your article.</span>
+                    </div>
+                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center" >
+                    <img src="assets/img/hiw/how_5.webp">
+                    </div>
+                    <div class="col-lg-10 col-sm-12 d-flex justify-content-center  text-center align-items-center text-align-center">
+                    <span style="font-size:large">Add "As Seen On Forbes, Yahoo & Apple News".</span>
+                    </div>
+                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center" >
+                    <img src="assets/img/hiw/how_6.webp">
+                    </div>
+                    <div class="col-lg-10 col-sm-12 d-flex justify-content-center  text-center align-items-center text-align-center">
+                    <span style="font-size:large">Provides Instant Trust & Credibility to your brand.</span>
+                    </div>
+                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center" >
+                    <img src="assets/img/hiw/how_7.webp">
+                    </div>
+                    <div class="col-lg-10 col-sm-12 d-flex justify-content-center  text-center align-items-center text-align-center">
+                    <span style="font-size:large">20-50% improvements to your website conversion rate.</span>
+                    </div>
+                   
+                  
+                   
+                    
+                        <!-- <img src="assets/img/hiw/how_1.webp">
                         <img src="assets/img/hiw/how_2.webp">
                         <img src="assets/img/hiw/how_3.webp">
                         <img src="assets/img/hiw/how_4.webp">
                         <img src="assets/img/hiw/how_5.webp">
                         <img src="assets/img/hiw/how_6.webp">
-                        <img src="assets/img/hiw/how_7.webp">
+                        <img src="assets/img/hiw/how_7.webp"> -->
                     </div>
-                    <div class="col lg-6 col-md-6" style=" width:420px;">
+                    <!-- <div class="col-lg-6 col-md-12" style=" width:420px;">
                         <p style="font-size:large">Speak to our team about your business & objectives.</p>
                         <p style="font-size:large">Get Published on Global News Sites, as per our FAQs.</p>
                         <p style="font-size:large">Our writers then research and then write an article for your review.</p>
@@ -335,7 +473,7 @@
                         <p style="font-size:large">Add "As Seen On Forbes, Yahoo & Apple News".</p>
                         <p style="font-size:large">Provides Instant Trust & Credibility to your brand.</p>
                         <p style="font-size:large">20-50% improvements to your website conversion rate.</p>
-                    </div>
+                    </div> -->
                 </div>
             </div>
 

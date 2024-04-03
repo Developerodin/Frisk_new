@@ -33,48 +33,48 @@
                         <li>
                             <a href="#">
                                 <span class="link-effect">
-                                    <span class="effect-1"><img src="assets/img/client/client-1-1.svg" alt="img"></span>
-                                    <span class="effect-1"><img src="assets/img/client/client-1-1.svg" alt="img"></span>
+                                    <span class="effect-1"><img src="assets/img/client/client-1-1.webp" alt="img" style="height:100%;"></span>
+                                    <span class="effect-1"><img src="assets/img/client/client-1-1.webp" alt="img" style="height:100%;"></span>
                                 </span>
                             </a>
                         </li>
                         <li>
                             <a href="#">
                                 <span class="link-effect">
-                                    <span class="effect-1"><img src="assets/img/client/client-1-2.svg" alt="img"></span>
-                                    <span class="effect-1"><img src="assets/img/client/client-1-2.svg" alt="img"></span>
+                                    <span class="effect-1"><img src="assets/img/client/client-1-2.webp" alt="img" style="height:100%;"></span>
+                                    <span class="effect-1"><img src="assets/img/client/client-1-2.webp" alt="img" style="height:100%;"></span>
                                 </span>
                             </a>
                         </li>
                         <li>
                             <a href="#">
                                 <span class="link-effect">
-                                    <span class="effect-1"><img src="assets/img/client/client-1-3.svg" alt="img"></span>
-                                    <span class="effect-1"><img src="assets/img/client/client-1-3.svg" alt="img"></span>
+                                    <span class="effect-1"><img src="assets/img/client/client-1-3.webp" alt="img" style="height:100%;"></span>
+                                    <span class="effect-1"><img src="assets/img/client/client-1-3.webp" alt="img" style="height:100%;"></span>
                                 </span>
                             </a>
                         </li>
                         <li>
                             <a href="#">
                                 <span class="link-effect">
-                                    <span class="effect-1"><img src="assets/img/client/client-1-4.svg" alt="img"></span>
-                                    <span class="effect-1"><img src="assets/img/client/client-1-4.svg" alt="img"></span>
+                                    <span class="effect-1"><img src="assets/img/client/client-1-4.png" alt="img" style="height:100%;"></span>
+                                    <span class="effect-1"><img src="assets/img/client/client-1-4.png" alt="img" style="height:100%;"></span>
                                 </span>
                             </a>
                         </li>
                         <li>
                             <a href="#">
                                 <span class="link-effect">
-                                    <span class="effect-1"><img src="assets/img/client/client-1-7.svg" alt="img"></span>
-                                    <span class="effect-1"><img src="assets/img/client/client-1-7.svg" alt="img"></span>
+                                    <span class="effect-1"><img src="assets/img/client/client-1-7.webp" alt="img" style="height:100%; width:90%"></span>
+                                    <span class="effect-1"><img src="assets/img/client/client-1-7.webp" alt="img" style="height:100%; width:90%"></span>
                                 </span>
                             </a>
                         </li>
                         <li>
                             <a href="#">
                                 <span class="link-effect">
-                                    <span class="effect-1"><img src="assets/img/client/client-1-5.svg" alt="img"></span>
-                                    <span class="effect-1"><img src="assets/img/client/client-1-5.svg" alt="img"></span>
+                                    <span class="effect-1"><img src="assets/img/client/client-1-5.webp" alt="img" style="height:100%; width:90%"></span>
+                                    <span class="effect-1"><img src="assets/img/client/client-1-5.webp" alt="img" style="height:100%; width:90%"></span>
                                 </span>
                             </a>
                         </li>
