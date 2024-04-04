@@ -65,7 +65,7 @@
         </div>
     </div>
 
-      <!--==============================
+    <!--==============================
     Marquee Area
     ==============================-->
     <div class="container-fluid p-0 overflow-hidden">
@@ -77,86 +77,122 @@
         </div>
     </div>
 
-     <!--==============================
+    <!--==============================
     Client Area
     ==============================-->
     <div class="client-area-2 overflow-hidden space">
         <div class="container">
-            <div class="row gy-4">
-                <div class="col-lg-12 col-md-6">
-                
-                    <div class="client-card" style="display:flex; height:200px;">
-                    <div class="col-lg-3" style="border:1px solid black;">
-                    <div class="pen">
-                        <img src="assets/img/client/client-1-1.webp" alt="img">
-                    <div class="eraser">
-                        <img src="assets/img/client/client-1-1.webp" alt="img">
+            <div class="row ">
+                <div class="col-12">
+                    <div class=" row">
+                        <div class="col-4 col-lg-2" style="border:1px solid black;">
+                            <div class="pen">
+                                <img src="assets/img/client/client-1-1.webp" alt="img" style="height:125px; width:100%; margin-top:20px;">
+                                <div class="eraser">
+                                    <img src="assets/img/client/client-1-1.webp" alt="img" style="height:125px; width:100%; margin-top:20px;">
+                                </div>
+                            </div>
                         </div>
-                    </div>  
-                    </div>
-                        <div class="col-lg-3" style="border:1px solid black;">
-                        <div class="pen">
-                        <img src="assets/img/client/client-1-2.webp" alt="img" style="height:180px;">
-                        <div class="eraser">
-                            <img src="assets/img/client/client-1-2.webp" alt="img" style="height:180px;">
-                    </div></div>
+                        <div class="col-4 col-lg-2 " style="border:1px solid black;">
+                            <div class="pen">
+                                <img src="assets/img/client/client-1-2.webp" alt="img" style="height:100px; width:100%; margin-top:40px;">
+                                <div class="eraser">
+                                    <img src="assets/img/client/client-1-2.webp" alt="img" style="height:100px; width:100%; margin-top:40px;">
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-lg-3" style="border:1px solid black;">
-                        <div class="pen">
-                        <img src="assets/img/client/client-1-3.webp" alt="img">
-                        <div class="eraser">
-                        <img src="assets/img/client/client-1-3.webp" alt="img">
+                        <div class="col-4 col-lg-2 " style="border:1px solid black;">
+                            <div class="pen">
+                                <img src="assets/img/client/client-1-3.webp" alt="img" style="height:110px; width:100%; margin-top:30px;">
+                                <div class="eraser">
+                                    <img src="assets/img/client/client-1-3.webp" alt="img" style="height:110px; width:100%; margin-top:30px;">
+                                </div>
+                            </div>
                         </div>
+                        <div class="col-4 col-lg-2" style="border:1px solid black;">
+                            <div class="pen">
+                                <img src="assets/img/client/client-1-4.png" alt="img" style="height:110px; width:100%; margin-top:30px;">
+                                <div class="eraser">
+                                    <img src="assets/img/client/client-1-4.png" alt="img" style="height:110px; width:100%; margin-top:30px;">
+                                </div>
+                            </div>
                         </div>
+                        <div class="col-4 col-lg-2" style="border:1px solid black;">
+                            <div class="pen">
+                                <img src="assets/img/client/client-1-5(edited).jpg" alt="img" style="width:100%; height:160px;">
+                                <div class="eraser">
+                                    <img src="assets/img/client/client-1-5(edited).jpg" alt="img" style="width:100%; height:160px;">
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-lg-3" style="border:1px solid black;">
-                        <div class="pen">
-                        <img src="assets/img/client/client-1-4.png" alt="img" style="height:170px;">
-                        <div class="eraser">
-                        <img src="assets/img/client/client-1-4.png" alt="img" style="height:170px;">
-                        </div>
-                        </div>
-                        </div>
-                    </div>
-                    <div class="client-card" style="display:flex; height:200px;">
-                        <div class="col-lg-3" style="border:1px solid black;">
-                        <div class="pen">
-                        <img src="assets/img/client/client-1-5(edited).jpg" alt="img"style="width:90%; height:190px;">
-                        <div class="eraser">
-                        <img src="assets/img/client/client-1-5(edited).jpg" alt="img"style="width:90%; height:190px;">
-                        </div>
-                        </div>
-                        </div>
-                        <div class="col-lg-3" style="border:1px solid black;">
-                        <div class="pen">
-                        <img src="assets/img/client/client-1-7.webp" alt="img">
-                        <div class="eraser">
-                        <img src="assets/img/client/client-1-7.webp" alt="img">
-                        </div>
-                        </div>
-                        </div>
-                        <div class="col-lg-3" style="border:1px solid black;">
-                        <div class="pen">
-                        <img src="assets/img/client/client-1-8.webp" alt="img" style="height:190px;">
-                        <div class="eraser">
-                        <img src="assets/img/client/client-1-8.webp" alt="img"  style="height:190px;">  
-                        </div>
-                        </div>
-                        </div>
-                        <div class="col-lg-3" style="border:1px solid black;">
-                        <div class="pen">
-                        <img src="assets/img/client/client-1-9.webp" alt="img">
-                        <div class="eraser">
-                        <img src="assets/img/client/client-1-9.webp" alt="img">
-                        </div>
-                        </div>
+                        <div class="col-4 col-lg-2" style="border:1px solid black;">
+                            <div class="pen">
+                                <img src="assets/img/client/client-1-7.webp" alt="img" style="height:auto; width:100%; margin-top:30px;">
+                                <div class="eraser">
+                                    <img src="assets/img/client/client-1-7.webp" alt="img" style="height:auto; width:100%;margin-top:30px;">
+                                </div>
+                            </div>
                         </div>
                     </div>
-            </div>
+
+                    </div> 
+                    <div class="col-12">
+                    <div class=" row">
+                        <div class="col-4 col-lg-2 " style="border:1px solid black;">
+                            <div class="pen">
+                                <img src="assets/img/client/client-1-8.webp" alt="img" style="height:160px; width:100%">
+                                <div class="eraser">
+                                    <img src="assets/img/client/client-1-8.webp" alt="img" style="height:160px; width:100%">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4 col-lg-2 " style="border:1px solid black;">
+                            <div class="pen">
+                                <img src="assets/img/client/client-1-9.webp" alt="img" style="height:130px; width:100%; margin-top:20px;">
+                                <div class="eraser">
+                                    <img src="assets/img/client/client-1-9.webp" alt="img" style="height:130px; width:100%; margin-top:20px;">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4 col-lg-2 " style="border:1px solid black;">
+                            <div class="pen">
+                                <img src="assets/img/client/client-1-11.webp" alt="img" style="height:60px; width:90%; margin-top:50px; margin-left:10px;">
+                                <div class="eraser">
+                                    <img src="assets/img/client/client-1-11.webp" alt="img" style="height:60px; width:90%; margin-top:50px; margin-left:10px;">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4 col-lg-2 " style="border:1px solid black;">
+                            <div class="pen">
+                                <img src="assets/img/client/client-1-12.webp" alt="img" style="height:130px; width:100%; margin-top:15px;">
+                                <div class="eraser">
+                                    <img src="assets/img/client/client-1-12.webp" alt="img" style="height:130px; width:100%; margin-top:15px;">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4 col-lg-2 " style="border:1px solid black;">
+                            <div class="pen">
+                                <img src="assets/img/client/client-1-13.webp" alt="img" style="height:100px; width:100%; margin-top:30px;">
+                                <div class="eraser">
+                                    <img src="assets/img/client/client-1-13.webp" alt="img" style="height:100px; width:100%; margin-top:30px;">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4 col-lg-2 " style="border:1px solid black;">
+                            <div class="pen">
+                                <img src="assets/img/client/client-1-14.webp" alt="img" style="height:160px; width:100%">
+                                <div class="eraser">
+                                    <img src="assets/img/client/client-1-14.webp" alt="img" style="height:160px; width:100%">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </div> 
+
             </div>
         </div>
     </div>
-   
+
     <!--==============================
   Faq Area
   ==============================-->
@@ -410,62 +446,62 @@
 
             <div class="col-lg-7 col-md-6">
                 <div class="row gy-4" style="margin: 10px;">
-                  
-                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center" >
-                    <img src="assets/img/hiw/how_1.webp">
+
+                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center">
+                        <img src="assets/img/hiw/how_1.webp">
                     </div>
                     <div class="col-lg-10 col-sm-12 d-flex justify-content-center  text-center align-items-center text-align-center">
-                    <span style="font-size:large">Speak to our team about your business & objectives.</span>
+                        <span style="font-size:large">Speak to our team about your business & objectives.</span>
                     </div>
-                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center" >
-                    <img src="assets/img/hiw/how_2.webp">
-                    </div>
-                    <div class="col-lg-10 col-sm-12 d-flex justify-content-center  text-center align-items-center text-align-center">
-                    <span style="font-size:large">Get Published on Global News Sites, as per our FAQs.</span>
-                    </div>
-                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center" >
-                    <img src="assets/img/hiw/how_3.webp">
+                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center">
+                        <img src="assets/img/hiw/how_2.webp">
                     </div>
                     <div class="col-lg-10 col-sm-12 d-flex justify-content-center  text-center align-items-center text-align-center">
-                    <span style="font-size:large">Our writers then research and then write an article for your review.</span>
+                        <span style="font-size:large">Get Published on Global News Sites, as per our FAQs.</span>
                     </div>
-                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center" >
-                    <img src="assets/img/hiw/how_4.webp">
-                    </div>
-                    <div class="col-lg-10 col-sm-12 d-flex justify-content-center  text-center align-items-center text-align-center">
-                    <span style="font-size:large">We collate and email you a list of live URLs to with your article.</span>
-                    </div>
-                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center" >
-                    <img src="assets/img/hiw/how_5.webp">
+                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center">
+                        <img src="assets/img/hiw/how_3.webp">
                     </div>
                     <div class="col-lg-10 col-sm-12 d-flex justify-content-center  text-center align-items-center text-align-center">
-                    <span style="font-size:large">Add "As Seen On Forbes, Yahoo & Apple News".</span>
+                        <span style="font-size:large">Our writers then research and then write an article for your review.</span>
                     </div>
-                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center" >
-                    <img src="assets/img/hiw/how_6.webp">
-                    </div>
-                    <div class="col-lg-10 col-sm-12 d-flex justify-content-center  text-center align-items-center text-align-center">
-                    <span style="font-size:large">Provides Instant Trust & Credibility to your brand.</span>
-                    </div>
-                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center" >
-                    <img src="assets/img/hiw/how_7.webp">
+                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center">
+                        <img src="assets/img/hiw/how_4.webp">
                     </div>
                     <div class="col-lg-10 col-sm-12 d-flex justify-content-center  text-center align-items-center text-align-center">
-                    <span style="font-size:large">20-50% improvements to your website conversion rate.</span>
+                        <span style="font-size:large">We collate and email you a list of live URLs to with your article.</span>
                     </div>
-                   
-                  
-                   
-                    
-                        <!-- <img src="assets/img/hiw/how_1.webp">
+                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center">
+                        <img src="assets/img/hiw/how_5.webp">
+                    </div>
+                    <div class="col-lg-10 col-sm-12 d-flex justify-content-center  text-center align-items-center text-align-center">
+                        <span style="font-size:large">Add "As Seen On Forbes, Yahoo & Apple News".</span>
+                    </div>
+                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center">
+                        <img src="assets/img/hiw/how_6.webp">
+                    </div>
+                    <div class="col-lg-10 col-sm-12 d-flex justify-content-center  text-center align-items-center text-align-center">
+                        <span style="font-size:large">Provides Instant Trust & Credibility to your brand.</span>
+                    </div>
+                    <div class="col-lg-2 col-sm-12 d-flex justify-content-center align-items-center">
+                        <img src="assets/img/hiw/how_7.webp">
+                    </div>
+                    <div class="col-lg-10 col-sm-12 d-flex justify-content-center  text-center align-items-center text-align-center">
+                        <span style="font-size:large">20-50% improvements to your website conversion rate.</span>
+                    </div>
+
+
+
+
+                    <!-- <img src="assets/img/hiw/how_1.webp">
                         <img src="assets/img/hiw/how_2.webp">
                         <img src="assets/img/hiw/how_3.webp">
                         <img src="assets/img/hiw/how_4.webp">
                         <img src="assets/img/hiw/how_5.webp">
                         <img src="assets/img/hiw/how_6.webp">
                         <img src="assets/img/hiw/how_7.webp"> -->
-                    </div>
-                    <!-- <div class="col-lg-6 col-md-12" style=" width:420px;">
+                </div>
+                <!-- <div class="col-lg-6 col-md-12" style=" width:420px;">
                         <p style="font-size:large">Speak to our team about your business & objectives.</p>
                         <p style="font-size:large">Get Published on Global News Sites, as per our FAQs.</p>
                         <p style="font-size:large">Our writers then research and then write an article for your review.</p>
@@ -474,102 +510,102 @@
                         <p style="font-size:large">Provides Instant Trust & Credibility to your brand.</p>
                         <p style="font-size:large">20-50% improvements to your website conversion rate.</p>
                     </div> -->
-                </div>
             </div>
-
         </div>
 
+    </div>
 
- <!--==============================
+
+    <!--==============================
   Pricing
   ==============================-->
-        <div>
-            <h2 style="text-align:center; margin-top:100px; margin-bottom:40px;">Pricing</h2>
-        </div>
+    <div>
+        <h2 style="text-align:center; margin-top:100px; margin-bottom:40px;">Pricing</h2>
+    </div>
 
-        <div class="container">
-            <div class="row gy-4 justify-content-center">
-                <div class="col-lg-4 col-md-6">
-                    <div class="pricing-card bg-smoke">
-                        <h4 class="pricing-card_title">Yearly</h4>
-                        <div class="price-card-wrap">
-                            <h4 class="pricing-card_price"><span class="currency">$</span>1490<span class="duration">/mo</span>
-                            </h4>
-                        </div>
-                        <p>We care about their success. For us real relationships fuel real</p>
-                        <div class="checklist">
-                            <ul>
-                                <li><i class="fas fa-check"></i> 12 Publication/Term</li>
-                                <li><i class="fas fa-check"></i> 1 Year</li>
-                                <li><i class="fas fa-check"></i> Money Back Guarantee*</li>
-                                <li><i class="fas fa-check"></i> Cancellation Anytime After The Term</li>
-                            </ul>
-                        </div>
-                        <a href="project.html" class="btn">
-                            <span class="link-effect">
-                                <span class="effect-1">BOOK A CALL</span>
-                                <!--<span class="effect-1">CHOOSE THIS PLAN</span>
+    <div class="container">
+        <div class="row gy-4 justify-content-center">
+            <div class="col-lg-4 col-md-6">
+                <div class="pricing-card bg-smoke">
+                    <h4 class="pricing-card_title">Yearly</h4>
+                    <div class="price-card-wrap">
+                        <h4 class="pricing-card_price"><span class="currency">$</span>1490<span class="duration">/mo</span>
+                        </h4>
+                    </div>
+                    <p>We care about their success. For us real relationships fuel real</p>
+                    <div class="checklist">
+                        <ul>
+                            <li><i class="fas fa-check"></i> 12 Publication/Term</li>
+                            <li><i class="fas fa-check"></i> 1 Year</li>
+                            <li><i class="fas fa-check"></i> Money Back Guarantee*</li>
+                            <li><i class="fas fa-check"></i> Cancellation Anytime After The Term</li>
+                        </ul>
+                    </div>
+                    <a href="project.html" class="btn">
+                        <span class="link-effect">
+                            <span class="effect-1">BOOK A CALL</span>
+                            <!--<span class="effect-1">CHOOSE THIS PLAN</span>
                             </span>-->
-                        </a>
-                    </div>
+                    </a>
                 </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="pricing-card bg-smoke">
-                        <h4 class="pricing-card_title">Quarterly</h4>
-                        <div class="price-card-wrap">
-                            <h4 class="pricing-card_price"><span class="currency">$</span>1990<span class="duration">/mo</span>
-                            </h4>
-                        </div>
-                        <p>We care about their success. For us real relationships fuel real</p>
-                        <div class="checklist">
-                            <ul>
-                                <li><i class="fas fa-check"></i> 12 Publiuction/Term</li>
-                                <li><i class="fas fa-check"></i> 3 Months</li>
-                                <li><i class="fas fa-check"></i> Money Back Guarantee*</li>
-                                <li><i class="fas fa-check"></i> Cancelltion Anytime After The Term</li>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="pricing-card bg-smoke">
+                    <h4 class="pricing-card_title">Quarterly</h4>
+                    <div class="price-card-wrap">
+                        <h4 class="pricing-card_price"><span class="currency">$</span>1990<span class="duration">/mo</span>
+                        </h4>
+                    </div>
+                    <p>We care about their success. For us real relationships fuel real</p>
+                    <div class="checklist">
+                        <ul>
+                            <li><i class="fas fa-check"></i> 12 Publiuction/Term</li>
+                            <li><i class="fas fa-check"></i> 3 Months</li>
+                            <li><i class="fas fa-check"></i> Money Back Guarantee*</li>
+                            <li><i class="fas fa-check"></i> Cancelltion Anytime After The Term</li>
 
-                            </ul>
-                        </div>
-                        <a href="project.html" class="btn">
-                            <span class="link-effect">
-                                <span class="effect-1">BOOK A CALL</span>
-                                <!-- <span class="effect-1">CHOOSE THIS PLAN</span>
+                        </ul>
+                    </div>
+                    <a href="project.html" class="btn">
+                        <span class="link-effect">
+                            <span class="effect-1">BOOK A CALL</span>
+                            <!-- <span class="effect-1">CHOOSE THIS PLAN</span>
                             </span>-->
-                        </a>
-                    </div>
+                    </a>
                 </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="pricing-card bg-smoke">
-                        <h4 class="pricing-card_title">Monthly</h4>
-                        <div class="price-card-wrap">
-                            <h4 class="pricing-card_price"><span class="currency">$</span>2990<span class="duration">/mo</span>
-                            </h4>
-                        </div>
-                        <p>We care about their success. For us real relationships fuel real</p>
-                        <div class="checklist">
-                            <ul>
-                                <li><i class="fas fa-check"></i> 15 Publication/mo</li>
-                                <li><i class="fas fa-check"></i> Monthly</li>
-                                <li><i class="fas fa-check"></i> Money Back Guarantee</li>
-                                <li><i class="fas fa-check"></i> Cancellation Anytime After The Term</li>
-
-                            </ul>
-                        </div>
-                        <a href="project.html" class="btn">
-                            <span class="link-effect">
-                                <span class="effect-1">BOOK A CALL</span>
-                        </a>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="pricing-card bg-smoke">
+                    <h4 class="pricing-card_title">Monthly</h4>
+                    <div class="price-card-wrap">
+                        <h4 class="pricing-card_price"><span class="currency">$</span>2990<span class="duration">/mo</span>
+                        </h4>
                     </div>
+                    <p>We care about their success. For us real relationships fuel real</p>
+                    <div class="checklist">
+                        <ul>
+                            <li><i class="fas fa-check"></i> 15 Publication/mo</li>
+                            <li><i class="fas fa-check"></i> Monthly</li>
+                            <li><i class="fas fa-check"></i> Money Back Guarantee</li>
+                            <li><i class="fas fa-check"></i> Cancellation Anytime After The Term</li>
+
+                        </ul>
+                    </div>
+                    <a href="project.html" class="btn">
+                        <span class="link-effect">
+                            <span class="effect-1">BOOK A CALL</span>
+                    </a>
                 </div>
             </div>
         </div>
+    </div>
     </div>
 
 
     <!--==============================
   Team Area
   ==============================-->
-    <div class="team-area-1 space overflow-hidden">
+    <!-- <div class="team-area-1 space overflow-hidden">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6">
@@ -627,12 +663,12 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!--==============================
   Testimonial Area
   ==============================-->
-    <div class="testimonial-area-1 space bg-theme">
+    <div class="testimonial-area-1 space bg-theme  space overflow-hidden">
         <div class="testimonial-img-1-1 shape-mockup wow img-custom-anim-right animated" data-wow-duration="1.5s" data-wow-delay="0.2s" data-right="0" data-top="-100px" data-bottom="140px">
             <img src="assets/img/testimonial/testi_thumb1_1.jpg" alt="img">
         </div>
@@ -701,7 +737,7 @@
     <!--==============================
   Blog Area
   ==============================-->
-    <section class="blog-area space">
+    <!-- <section class="blog-area space">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xxl-7 col-xl-6 col-lg-8">
@@ -782,7 +818,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Jquery -->
     <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
     <script src="assets/js/slick.min.js"></script>
