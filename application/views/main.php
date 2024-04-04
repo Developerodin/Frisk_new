@@ -192,11 +192,29 @@
             </div>
         </div>
     </div>
+    <div class = "row" style="justify-content:center; margin-left:490px; margin-right:490px;">
+    <div class="btn" style="justify-content:center;">
+        <a herf="#">
+        <span class="link-effect">
+                  <span class="effect-1">Browse Our Available Publications</span>
+                  <span class="effect-1">Browse Our Available Publications</span>
+                </span>
+        </a>
+    </div>
+    </div>
+    <!-- <div class="col-lg-5">
+              <a href="#" class="btn">
+                <span class="link-effect">
+                  <span class="effect-1">Browse Our Available Publications</span>
+                  <span class="effect-1">Browse Our Available Publications</span>
+                </span>
+              </a>
+            </div> -->
 
     <!--==============================
   Faq Area
   ==============================-->
-    <div class="faq-area-1 ">
+    <div class="faq-area-1  space overflow-hidden">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-8">
@@ -544,8 +562,8 @@
                     <a href="project.html" class="btn">
                         <span class="link-effect">
                             <span class="effect-1">BOOK A CALL</span>
-                            <!--<span class="effect-1">CHOOSE THIS PLAN</span>
-                            </span>-->
+                           <span class="effect-1">BOOK A CALL</span>
+                            </span>
                     </a>
                 </div>
             </div>
@@ -569,8 +587,8 @@
                     <a href="project.html" class="btn">
                         <span class="link-effect">
                             <span class="effect-1">BOOK A CALL</span>
-                            <!-- <span class="effect-1">CHOOSE THIS PLAN</span>
-                            </span>-->
+                             <span class="effect-1">BOOK A CALL</span>
+                            </span>
                     </a>
                 </div>
             </div>
@@ -593,6 +611,7 @@
                     </div>
                     <a href="project.html" class="btn">
                         <span class="link-effect">
+                            <span class="effect-1">BOOK A CALL</span>
                             <span class="effect-1">BOOK A CALL</span>
                     </a>
                 </div>
