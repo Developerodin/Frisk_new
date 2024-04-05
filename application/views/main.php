@@ -192,7 +192,7 @@
             </div>
         </div>
     </div>
-    <div class = "row" style="justify-content:center; margin-left:490px; margin-right:490px;">
+    <div class = "row cba" style="justify-content:center;">
     <div class="btn" style="justify-content:center;">
         <a herf="#">
         <span class="link-effect">
@@ -211,10 +211,58 @@
               </a>
             </div> -->
 
+ <!--==============================
+  Three Step Process Area
+  ==============================-->
+  <div class="feature-area-1 space">
+        <div class="container">
+            <div class="title-area text-center" style="color:black">
+                <!-- <h2 class="sec-title text-smoke" style="color:black">Three Step Process</h2> -->
+                <h2> Three Step Process</h2>
+            </div>
+            <div class="row gx-0 gy-40">
+                <div class="col-lg-4">
+                    <div class="process-card">
+                        <div class="process-card-number" style="color:black">
+                            Step 1
+                        </div>
+                        <h4 class="process-card-title" style="color:black">
+                        Consultation & Goal Setting
+                        </h4>
+                        <p class="process-card-text" style="color:black">Align your business objectives with our team. Uncover tailored publishing opportunities on global news sites.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="process-card">
+                        <div class="process-card-number" style="color:black">
+                            Step 2
+                        </div>
+                        <h4 class="process-card-title" style="color:black">
+                        Publication Planning & Strategy
+                        </h4>
+                        <p class="process-card-text" style="color:black">Align objectives with our team. Explore global news site opportunities. Collaborate for compelling, brand-tailored articles.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="process-card">
+                        <div class="process-card-number"style="color:black">
+                            Step 3
+                        </div>
+                        <h4 class="process-card-title" style="color:black">
+                        Content Collaboration & Creation
+                        </h4>
+                        <p class="process-card-text" style="color:black">Boost brand credibility with the tagline "As Seen On Forbes, Yahoo & Apple News." Gain audience trust, leading to 20-50% website conversion rate improvements via enhanced visibility.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
     <!--==============================
   Faq Area
   ==============================-->
-    <div class="faq-area-1  space overflow-hidden">
+    <!-- <div class="faq-area-1  space overflow-hidden">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-8">
@@ -280,7 +328,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!--==============================
       Portfolio Area
@@ -401,7 +449,7 @@
     <!--==============================
   How it works
   ==============================-->
-    <div>
+    <!-- <div>
         <h2 style="text-align:center; margin-bottom:70px; margin-top:90px;">How it works</h2>
     </div>
     <div class="container">
@@ -506,7 +554,7 @@
                     </div>
                     <div class="col-lg-10 col-sm-12 d-flex justify-content-center  text-center align-items-center text-align-center">
                         <span style="font-size:large">20-50% improvements to your website conversion rate.</span>
-                    </div>
+                    </div>  -->
 
 
 
@@ -538,7 +586,7 @@
   Pricing
   ==============================-->
     <div>
-        <h2 style="text-align:center; margin-top:100px; margin-bottom:40px;">Pricing</h2>
+        <h2 style="text-align:center; margin-bottom:40px;">Pricing</h2>
     </div>
 
     <div class="container">
@@ -687,7 +735,7 @@
     <!--==============================
   Testimonial Area
   ==============================-->
-    <div class="testimonial-area-1 space bg-theme  space overflow-hidden">
+    <div class="testimonial-area-1 space bg-theme  space overflow-hidden" style="margin-top:60px;">
         <div class="testimonial-img-1-1 shape-mockup wow img-custom-anim-right animated" data-wow-duration="1.5s" data-wow-delay="0.2s" data-right="0" data-top="-100px" data-bottom="140px">
             <img src="assets/img/testimonial/testi_thumb1_1.jpg" alt="img">
         </div>

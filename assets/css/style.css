@@ -9708,7 +9708,7 @@ blockquote p {
   font-family: var(--title-font);
   color: var(--smoke-color);
   text-transform: uppercase;
-  border-bottom: 2px solid var(--smoke-color);
+  border-bottom: 2px solid var(--body-color);
   padding-bottom: 22px;
   position: relative;
 }
@@ -9719,7 +9719,7 @@ blockquote p {
   width: 24px;
   height: 24px;
   border-radius: 50%;
-  background: var(--smoke-color);
+  background: var(--body-color);
   bottom: 0;
   transform: translate(0px, 50%);
   border: 4px solid var(--title-color);
@@ -10628,6 +10628,20 @@ blockquote p {
 
 .pen:hover .eraser {
   height: 100%;
+}
+.cba {
+  margin-left:490px; 
+  margin-right:490px;
+}
+@media screen and (max-width: 768px) {
+  .cba{
+      justify-content: center;
+      align-items: center;
+      margin-left: 50px;
+      margin-right: 50px;
+   
+      height:auto;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
