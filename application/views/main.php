@@ -11,8 +11,7 @@
                         <!-- <h1 class="hero-title text-lg-end wow img-custom-anim-right animated" data-wow-duration="1.7s" data-wow-delay="0.1s">Not Temporary Buzz</h1> -->
                     </div>
                     <div class="col-lg-6 offset-lg-6">
-                        <p class="hero-text wow img-custom-anim-right animated" data-wow-duration="1.5s" data-wow-delay="0.1s">Our ensured news articles are promptly featured on the foremost news platforms worldwide.
-                        </p>
+                        <p class="hero-text wow img-custom-anim-right animated" data-wow-duration="1.5s" data-wow-delay="0.1s">Our 100% Money-Back Contract guarantees stories for your brand which are published on the world's top news platforms.</p>
                         <div class="btn-group fade_right">
                             <a href="project.html" class="btn wow img-custom-anim-right animated">
                                 <span class="link-effect">
@@ -229,7 +228,7 @@
                         <h4 class="process-card-title" style="color:black">
                         Consultation & Goal Setting
                         </h4>
-                        <p class="process-card-text" style="color:black">Align your business objectives with our team. Uncover tailored publishing opportunities on global news sites.</p>
+                        <p class="process-card-text" style="color:black"> Discuss your business goals and objectives with our team to have your story featured on global news sites.</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -240,7 +239,7 @@
                         <h4 class="process-card-title" style="color:black">
                         Publication Planning & Strategy
                         </h4>
-                        <p class="process-card-text" style="color:black">Align objectives with our team. Explore global news site opportunities. Collaborate for compelling, brand-tailored articles.</p>
+                        <p class="process-card-text" style="color:black">Our writers conduct thorough research and craft an article for your review. Following this, we compile a list of live URLs containing your article and send it to you via email.</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -251,7 +250,7 @@
                         <h4 class="process-card-title" style="color:black">
                         Content Collaboration & Creation
                         </h4>
-                        <p class="process-card-text" style="color:black">Boost brand credibility with the tagline "As Seen On Forbes, Yahoo & Apple News." Gain audience trust, leading to 20-50% website conversion rate improvements via enhanced visibility.</p>
+                        <p class="process-card-text" style="color:black">Enhance the credibility of your brand instantly by showcasing "As Seen On Forbes, Yahoo & Apple News," resulting in a notable 20-50% increase in website conversion rates.</p>
                     </div>
                 </div>
             </div>
