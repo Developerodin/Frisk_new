@@ -440,7 +440,7 @@
                       </div>
                       <div class="feature-card-details">
                           <h4 class="feature-card-title">
-                              <a href="project.html">Contact with Us</a>
+                              <a href="project.php">Contact with Us</a>
                           </h4>
                           <p class="feature-card-text">Good website tells a story that will make users fully immerse themselves operating</p>
                           <a href="tel:1800123654987" class="link-btn">
@@ -460,7 +460,7 @@
                       </div>
                       <div class="feature-card-details">
                           <h4 class="feature-card-title">
-                              <a href="project.html">Send a Message</a>
+                              <a href="project.php">Send a Message</a>
                           </h4>
                           <p class="feature-card-text">Good website tells a story that will make users fully immerse themselves operating</p>
                           <a href="mailto:frisk.agency@mail.com" class="link-btn">

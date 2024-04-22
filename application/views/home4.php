@@ -10,7 +10,7 @@
                             <h1 class="hero-title wow img-custom-anim-right animated">A Digital Marketing Agency</h1>
                             <p class="hero-text wow img-custom-anim-right animated">We are digital agency that helps businesses develop immersive and engaging user experiences that drive top level growth</p>
                             <div class="btn-group fade_right">
-                                <a href="project.html" class="btn wow img-custom-anim-right animated" >
+                                <a href="project.php" class="btn wow img-custom-anim-right animated" >
                                     <span class="link-effect">
                                         <span class="effect-1">VIEW OUR WORKS</span>
                                         <span class="effect-1">VIEW OUR WORKS</span>
@@ -58,10 +58,10 @@
                                             <img src="assets/img/icon/feature-icon1-1.svg" alt="icon">
                                         </div>
                                         <h4 class="feature-card-title">
-                                            <a href="project.html">Social Advertising</a>
+                                            <a href="project.php">Social Advertising</a>
                                         </h4>
                                         <p class="feature-card-text">We care success relationships fuel success we love building</p>
-                                        <a href="project-details.html" class="link-btn">
+                                        <a href="project-details.php" class="link-btn">
                                             <span class="link-effect">
                                                 <span class="effect-1">VIEW DETAILS</span>
                                                 <span class="effect-1">VIEW DETAILS</span>
@@ -76,10 +76,10 @@
                                             <img src="assets/img/icon/feature-icon1-2.svg" alt="icon">
                                         </div>
                                         <h4 class="feature-card-title">
-                                            <a href="project.html">SEO Optimization</a>
+                                            <a href="project.php">SEO Optimization</a>
                                         </h4>
                                         <p class="feature-card-text">We care success relationships fuel success we love building</p>
-                                        <a href="project-details.html" class="link-btn">
+                                        <a href="project-details.php" class="link-btn">
                                             <span class="link-effect">
                                                 <span class="effect-1">VIEW DETAILS</span>
                                                 <span class="effect-1">VIEW DETAILS</span>
@@ -98,10 +98,10 @@
                                             <img src="assets/img/icon/feature-icon1-3.svg" alt="icon">
                                         </div>
                                         <h4 class="feature-card-title">
-                                            <a href="project.html">Content Creation</a>
+                                            <a href="project.php">Content Creation</a>
                                         </h4>
                                         <p class="feature-card-text">We care success relationships fuel success we love building</p>
-                                        <a href="project-details.html" class="link-btn">
+                                        <a href="project-details.php" class="link-btn">
                                             <span class="link-effect">
                                                 <span class="effect-1">VIEW DETAILS</span>
                                                 <span class="effect-1">VIEW DETAILS</span>
@@ -116,10 +116,10 @@
                                             <img src="assets/img/icon/feature-icon1-4.svg" alt="icon">
                                         </div>
                                         <h4 class="feature-card-title">
-                                            <a href="project.html">Email Marketing</a>
+                                            <a href="project.php">Email Marketing</a>
                                         </h4>
                                         <p class="feature-card-text">We care success relationships fuel success we love building</p>
-                                        <a href="project-details.html" class="link-btn">
+                                        <a href="project-details.php" class="link-btn">
                                             <span class="link-effect">
                                                 <span class="effect-1">VIEW DETAILS</span>
                                                 <span class="effect-1">VIEW DETAILS</span>
@@ -212,7 +212,7 @@
             </div>
             <div class="row gy-4 justify-content-center masonary-active">
                 <div class="col-xxl-auto col-lg-7 filter-item">
-                    <a href="project-details.html" class="portfolio-wrap style3">
+                    <a href="project-details.php" class="portfolio-wrap style3">
                         <div class="portfolio-thumb">
                             <img src="assets/img/portfolio/portfolio3_1.jpg" alt="portfolio">
                         </div>
@@ -225,7 +225,7 @@
                     </a>
                 </div>
                 <div class="col-xxl-auto col-lg-5 filter-item">
-                    <a href="project-details.html" class="portfolio-wrap style3">
+                    <a href="project-details.php" class="portfolio-wrap style3">
                         <div class="portfolio-thumb">
                             <img src="assets/img/portfolio/portfolio3_2.jpg" alt="portfolio">
                         </div>
@@ -238,7 +238,7 @@
                     </a>
                 </div>
                 <div class="col-xxl-auto filter-item">
-                    <a href="project-details.html" class="portfolio-wrap style3">
+                    <a href="project-details.php" class="portfolio-wrap style3">
                         <div class="portfolio-thumb">
                             <img src="assets/img/portfolio/portfolio3_3.jpg" alt="portfolio">
                         </div>
@@ -252,7 +252,7 @@
                 </div>
             </div>
             <div class="btn-wrap mt-50 justify-content-center">
-                <a href="project.html" class="btn">
+                <a href="project.php" class="btn">
                     <span class="link-effect">
                         <span class="effect-1">VIEW ALL PROJECTS</span>
                         <span class="effect-1">VIEW ALL PROJECTS</span>
@@ -352,7 +352,7 @@
                                 <li><i class="fas fa-check"></i> Web Design</li>
                             </ul>
                         </div>
-                        <a href="project.html" class="btn">
+                        <a href="project.php" class="btn">
                             <span class="link-effect">
                                 <span class="effect-1">CHOOSE THIS PLAN</span>
                                 <span class="effect-1">CHOOSE THIS PLAN</span>
@@ -377,7 +377,7 @@
                                 <li><i class="fas fa-check"></i> Web Design</li>
                             </ul>
                         </div>
-                        <a href="project.html" class="btn">
+                        <a href="project.php" class="btn">
                             <span class="link-effect">
                                 <span class="effect-1">CHOOSE THIS PLAN</span>
                                 <span class="effect-1">CHOOSE THIS PLAN</span>
@@ -402,7 +402,7 @@
                                 <li><i class="fas fa-check"></i> Web Design</li>
                             </ul>
                         </div>
-                        <a href="project.html" class="btn">
+                        <a href="project.php" class="btn">
                             <span class="link-effect">
                                 <span class="effect-1">CHOOSE THIS PLAN</span>
                                 <span class="effect-1">CHOOSE THIS PLAN</span>
@@ -489,7 +489,7 @@
             </div>
             <div class="row gy-30 justify-content-center">
                 <div class="col-lg-4 col-md-6">
-                    <a href="blog-details.html" class="blog-card style2">
+                    <a href="blog-details.php" class="blog-card style2">
                         <div class="blog-img">
                             <img src="assets/img/blog/blog_2_1.png" alt="blog image">
                         </div>
@@ -510,7 +510,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <a href="blog-details.html" class="blog-card style2">
+                    <a href="blog-details.php" class="blog-card style2">
                         <div class="blog-img">
                             <img src="assets/img/blog/blog_2_2.png" alt="blog image">
                         </div>
@@ -531,7 +531,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <a href="blog-details.html" class="blog-card style2">
+                    <a href="blog-details.php" class="blog-card style2">
                         <div class="blog-img">
                             <img src="assets/img/blog/blog_2_3.png" alt="blog image">
                         </div>
@@ -568,7 +568,7 @@
                     </div>
                 </div>
                 <div class="col-xl-auto">
-                    <a class="circle-btn btn gsap-magnetic" href="contact.html">
+                    <a class="circle-btn btn gsap-magnetic" href="contact.php">
                         <span class="link-effect">
                             <span class="effect-1">LET'S TALK</span>
                             <span class="effect-1">LET'S TALK</span>

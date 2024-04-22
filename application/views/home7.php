@@ -108,10 +108,10 @@
                                 </div>
                                 <div class="feature-card-details">
                                     <h4 class="feature-card-title">
-                                        <a href="project.html">Social Advertising</a>
+                                        <a href="project.php">Social Advertising</a>
                                     </h4>
                                     <p class="feature-card-text">Good website tells a story that will make users fully immerse themselves operating</p>
-                                    <a href="project-details.html" class="link-btn">
+                                    <a href="project-details.php" class="link-btn">
                                         <span class="link-effect">
                                             <span class="effect-1">VIEW DETAILS</span>
                                             <span class="effect-1">VIEW DETAILS</span>
@@ -128,10 +128,10 @@
                                 </div>
                                 <div class="feature-card-details">
                                     <h4 class="feature-card-title">
-                                        <a href="project.html">Illustration Modelling</a>
+                                        <a href="project.php">Illustration Modelling</a>
                                     </h4>
                                     <p class="feature-card-text">Good website tells a story that will make users fully immerse themselves operating</p>
-                                    <a href="project-details.html" class="link-btn">
+                                    <a href="project-details.php" class="link-btn">
                                         <span class="link-effect">
                                             <span class="effect-1">VIEW DETAILS</span>
                                             <span class="effect-1">VIEW DETAILS</span>
@@ -148,10 +148,10 @@
                                 </div>
                                 <div class="feature-card-details">
                                     <h4 class="feature-card-title">
-                                        <a href="project.html">Website Development</a>
+                                        <a href="project.php">Website Development</a>
                                     </h4>
                                     <p class="feature-card-text">Good website tells a story that will make users fully immerse themselves operating</p>
-                                    <a href="project-details.html" class="link-btn">
+                                    <a href="project-details.php" class="link-btn">
                                         <span class="link-effect">
                                             <span class="effect-1">VIEW DETAILS</span>
                                             <span class="effect-1">VIEW DETAILS</span>
@@ -235,7 +235,7 @@
             </div>
             <div class="row gy-4 justify-content-center masonary-active">
                 <div class="col-xxl-auto col-lg-7 filter-item">
-                    <a href="project-details.html" class="portfolio-wrap style3">
+                    <a href="project-details.php" class="portfolio-wrap style3">
                         <div class="portfolio-thumb">
                             <img src="assets/img/portfolio/portfolio3_1.jpg" alt="portfolio">
                         </div>
@@ -248,7 +248,7 @@
                     </a>
                 </div>
                 <div class="col-xxl-auto col-lg-5 filter-item">
-                    <a href="project-details.html" class="portfolio-wrap style3">
+                    <a href="project-details.php" class="portfolio-wrap style3">
                         <div class="portfolio-thumb">
                             <img src="assets/img/portfolio/portfolio3_2.jpg" alt="portfolio">
                         </div>
@@ -261,7 +261,7 @@
                     </a>
                 </div>
                 <div class="col-xxl-auto filter-item">
-                    <a href="project-details.html" class="portfolio-wrap style3">
+                    <a href="project-details.php" class="portfolio-wrap style3">
                         <div class="portfolio-thumb">
                             <img src="assets/img/portfolio/portfolio3_3.jpg" alt="portfolio">
                         </div>
@@ -275,7 +275,7 @@
                 </div>
             </div>
             <div class="btn-wrap mt-50 justify-content-center">
-                <a href="project.html" class="btn">
+                <a href="project.php" class="btn">
                     <span class="link-effect">
                         <span class="effect-1">VIEW ALL PROJECTS</span>
                         <span class="effect-1">VIEW ALL PROJECTS</span>
@@ -434,7 +434,7 @@
             </div>
             <div class="row gy-30 justify-content-center">
                 <div class="col-lg-4 col-md-6">
-                    <a href="blog-details.html" class="blog-card style2">
+                    <a href="blog-details.php" class="blog-card style2">
                         <div class="blog-img">
                             <img src="assets/img/blog/blog_2_1.png" alt="blog image">
                         </div>
@@ -455,7 +455,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <a href="blog-details.html" class="blog-card style2">
+                    <a href="blog-details.php" class="blog-card style2">
                         <div class="blog-img">
                             <img src="assets/img/blog/blog_2_2.png" alt="blog image">
                         </div>
@@ -476,7 +476,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <a href="blog-details.html" class="blog-card style2">
+                    <a href="blog-details.php" class="blog-card style2">
                         <div class="blog-img">
                             <img src="assets/img/blog/blog_2_3.png" alt="blog image">
                         </div>
@@ -513,7 +513,7 @@
                     </div>
                 </div>
                 <div class="col-xl-auto">
-                    <a class="circle-btn btn bg-theme text-title gsap-magnetic" href="contact.html">
+                    <a class="circle-btn btn bg-theme text-title gsap-magnetic" href="contact.php">
                         <span class="link-effect">
                             <span class="effect-1">LET'S TALK</span>
                             <span class="effect-1">LET'S TALK</span>

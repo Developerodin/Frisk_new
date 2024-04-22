@@ -32,7 +32,7 @@
                                 <li><i class="fas fa-check"></i> Web Design</li>
                             </ul>
                         </div>
-                        <a href="project.html" class="btn">
+                        <a href="project.php" class="btn">
                             <span class="link-effect">
                                 <span class="effect-1">CHOOSE THIS PLAN</span>
                                 <span class="effect-1">CHOOSE THIS PLAN</span>
@@ -57,7 +57,7 @@
                                 <li><i class="fas fa-check"></i> Web Design</li>
                             </ul>
                         </div>
-                        <a href="project.html" class="btn">
+                        <a href="project.php" class="btn">
                             <span class="link-effect">
                                 <span class="effect-1">CHOOSE THIS PLAN</span>
                                 <span class="effect-1">CHOOSE THIS PLAN</span>
@@ -82,7 +82,7 @@
                                 <li><i class="fas fa-check"></i> Web Design</li>
                             </ul>
                         </div>
-                        <a href="project.html" class="btn">
+                        <a href="project.php" class="btn">
                             <span class="link-effect">
                                 <span class="effect-1">CHOOSE THIS PLAN</span>
                                 <span class="effect-1">CHOOSE THIS PLAN</span>

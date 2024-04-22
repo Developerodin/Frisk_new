@@ -19,7 +19,7 @@
                         </div>
                         <div class="col-lg-5 align-self-end text-lg-end">
                             <div class="text-lg-end" data-ani="slideindown" data-ani-delay="0.3s">
-                                <a class="circle-btn style2 btn bg-theme text-title gsap-magnetic" href="contact.html">
+                                <a class="circle-btn style2 btn bg-theme text-title gsap-magnetic" href="contact.php">
                                     <span class="link-effect">
                                         <span class="effect-1">LET'S TALK <br> WITH US</span>
                                         <span class="effect-1">LET'S TALK <br> WITH US</span>
@@ -46,7 +46,7 @@
                         </div>
                         <div class="col-lg-5 align-self-end text-lg-end">
                             <div class="text-lg-end" data-ani="slideindown" data-ani-delay="0.3s">
-                                <a class="circle-btn style2 btn bg-theme text-title gsap-magnetic" href="contact.html">
+                                <a class="circle-btn style2 btn bg-theme text-title gsap-magnetic" href="contact.php">
                                     <span class="link-effect">
                                         <span class="effect-1">LET'S TALK <br> WITH US</span>
                                         <span class="effect-1">LET'S TALK <br> WITH US</span>
@@ -126,7 +126,7 @@
                                 <h5 class="text-smoke mb-2">Bring Their Individual Experience</h5>
                                 <h5 class="text-smoke mb-0">Developing Core Web Applications</h5>
                                 <div class="btn-wrap mt-50">
-                                    <a href="about.html" class="link-btn text-theme">
+                                    <a href="about.php" class="link-btn text-theme">
                                         <span class="link-effect">
                                             <span class="effect-1">ABOUT US</span>
                                             <span class="effect-1">ABOUT US</span>
@@ -158,16 +158,16 @@
                 <div class="col-xl-6 col-lg-6">
                     <div class="portfolio-wrap style4">
                         <div class="portfolio-thumb wow img-custom-anim-top animated" data-wow-duration="1.5s" data-wow-delay="0.2s">
-                            <a href="project-details.html">
+                            <a href="project-details.php">
                                 <img src="assets/img/portfolio/portfolio4_1.png" alt="portfolio">
                             </a>
                         </div>
                         <div class="portfolio-details">
-                            <h3 class="portfolio-title"><a href="project-details.html">Decentralized Platform</a></h3>
+                            <h3 class="portfolio-title"><a href="project-details.php">Decentralized Platform</a></h3>
                             <ul class="portfolio-meta">
-                                <li><a href="blog.html">Branding</a></li>
-                                <li><a href="blog.html">Development</a></li>
-                                <li><a href="blog.html">Marketing</a></li>
+                                <li><a href="blog.php">Branding</a></li>
+                                <li><a href="blog.php">Development</a></li>
+                                <li><a href="blog.php">Marketing</a></li>
                             </ul>
                         </div>
                     </div>
@@ -175,15 +175,15 @@
                 <div class="col-xl-6 col-lg-6">
                     <div class="portfolio-wrap style4">
                         <div class="portfolio-thumb wow img-custom-anim-top animated" data-wow-duration="1.5s" data-wow-delay="0.2s">
-                            <a href="project-details.html">
+                            <a href="project-details.php">
                                 <img src="assets/img/portfolio/portfolio4_2.png" alt="portfolio">
                             </a>
                         </div>
                         <div class="portfolio-details">
-                            <h3 class="portfolio-title"><a href="project-details.html">App for Business</a></h3>
+                            <h3 class="portfolio-title"><a href="project-details.php">App for Business</a></h3>
                             <ul class="portfolio-meta">
-                                <li><a href="blog.html">Development</a></li>
-                                <li><a href="blog.html">Marketing</a></li>
+                                <li><a href="blog.php">Development</a></li>
+                                <li><a href="blog.php">Marketing</a></li>
                             </ul>
                         </div>
                     </div>
@@ -191,15 +191,15 @@
                 <div class="col-xl-6 col-lg-6">
                     <div class="portfolio-wrap style4">
                         <div class="portfolio-thumb wow img-custom-anim-top animated" data-wow-duration="1.5s" data-wow-delay="0.2s">
-                            <a href="project-details.html">
+                            <a href="project-details.php">
                                 <img src="assets/img/portfolio/portfolio4_3.png" alt="portfolio">
                             </a>
                         </div>
                         <div class="portfolio-details">
-                            <h3 class="portfolio-title"><a href="project-details.html">Educational Platform</a></h3>
+                            <h3 class="portfolio-title"><a href="project-details.php">Educational Platform</a></h3>
                             <ul class="portfolio-meta">
-                                <li><a href="blog.html">Marketing</a></li>
-                                <li><a href="blog.html">Branding</a></li>
+                                <li><a href="blog.php">Marketing</a></li>
+                                <li><a href="blog.php">Branding</a></li>
                             </ul>
                         </div>
                     </div>
@@ -207,23 +207,23 @@
                 <div class="col-xl-6 col-lg-6">
                     <div class="portfolio-wrap style4">
                         <div class="portfolio-thumb wow img-custom-anim-top animated" data-wow-duration="1.5s" data-wow-delay="0.2s">
-                            <a href="project-details.html">
+                            <a href="project-details.php">
                                 <img src="assets/img/portfolio/portfolio4_4.png" alt="portfolio">
                             </a>
                         </div>
                         <div class="portfolio-details">
-                            <h3 class="portfolio-title"><a href="project-details.html">Nova Scotia Winery</a></h3>
+                            <h3 class="portfolio-title"><a href="project-details.php">Nova Scotia Winery</a></h3>
                             <ul class="portfolio-meta">
-                                <li><a href="blog.html">Branding</a></li>
-                                <li><a href="blog.html">Development</a></li>
-                                <li><a href="blog.html">Marketing</a></li>
+                                <li><a href="blog.php">Branding</a></li>
+                                <li><a href="blog.php">Development</a></li>
+                                <li><a href="blog.php">Marketing</a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="btn-wrap mt-50 justify-content-center">
-                <a href="project.html" class="btn bg-theme text-title">
+                <a href="project.php" class="btn bg-theme text-title">
                     <span class="link-effect">
                         <span class="effect-1">VIEW ALL PROJECTS</span>
                         <span class="effect-1">VIEW ALL PROJECTS</span>
@@ -313,17 +313,17 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-card style3">
                         <div class="blog-img">
-                            <a href="blog-details.html">
+                            <a href="blog-details.php">
                                 <img src="assets/img/blog/blog_1_1.png" alt="blog image">
                             </a>
                         </div>
                         <div class="blog-content">
                             <div class="post-meta-item blog-meta">
-                                <a href="blog.html">March 26, 2024</a>
-                                <a href="blog.html">Branding</a>
+                                <a href="blog.php">March 26, 2024</a>
+                                <a href="blog.php">Branding</a>
                             </div>
-                            <h4 class="blog-title"><a href="blog-details.html">Everything You Should Know About Return</a></h4>
-                            <a href="blog-details.html" class="link-btn">
+                            <h4 class="blog-title"><a href="blog-details.php">Everything You Should Know About Return</a></h4>
+                            <a href="blog-details.php" class="link-btn">
                                 <span class="link-effect">
                                     <span class="effect-1">READ MORE</span>
                                     <span class="effect-1">READ MORE</span>
@@ -336,17 +336,17 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-card style3">
                         <div class="blog-img">
-                            <a href="blog-details.html">
+                            <a href="blog-details.php">
                                 <img src="assets/img/blog/blog_1_2.png" alt="blog image">
                             </a>
                         </div>
                         <div class="blog-content">
                             <div class="post-meta-item blog-meta">
-                                <a href="blog.html">March 26, 2024</a>
-                                <a href="blog.html">Branding</a>
+                                <a href="blog.php">March 26, 2024</a>
+                                <a href="blog.php">Branding</a>
                             </div>
-                            <h4 class="blog-title"><a href="blog-details.html">6 Big Commerce Design Tips For Big Results</a></h4>
-                            <a href="blog-details.html" class="link-btn">
+                            <h4 class="blog-title"><a href="blog-details.php">6 Big Commerce Design Tips For Big Results</a></h4>
+                            <a href="blog-details.php" class="link-btn">
                                 <span class="link-effect">
                                     <span class="effect-1">READ MORE</span>
                                     <span class="effect-1">READ MORE</span>
@@ -359,17 +359,17 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-card style3">
                         <div class="blog-img">
-                            <a href="blog-details.html">
+                            <a href="blog-details.php">
                                 <img src="assets/img/blog/blog_1_3.png" alt="blog image">
                             </a>
                         </div>
                         <div class="blog-content">
                             <div class="post-meta-item blog-meta">
-                                <a href="blog.html">March 26, 2024</a>
-                                <a href="blog.html">Branding</a>
+                                <a href="blog.php">March 26, 2024</a>
+                                <a href="blog.php">Branding</a>
                             </div>
-                            <h4 class="blog-title"><a href="blog-details.html">Four Steps to Conduct a Successful Usability</a></h4>
-                            <a href="blog-details.html" class="link-btn">
+                            <h4 class="blog-title"><a href="blog-details.php">Four Steps to Conduct a Successful Usability</a></h4>
+                            <a href="blog-details.php" class="link-btn">
                                 <span class="link-effect">
                                     <span class="effect-1">READ MORE</span>
                                     <span class="effect-1">READ MORE</span>

@@ -16,7 +16,7 @@
                         <p class="hero-text wow img-custom-anim-right animated" data-wow-duration="1.5s" data-wow-delay="0.1s">We are digital agency that helps businesses develop immersive and engaging user experiences that drive top level growth</p>
                     </div>
                 </div>
-                <a class="circle-btn style2 btn bg-theme text-title gsap-magnetic wow img-custom-anim-left animated" href="contact.html">
+                <a class="circle-btn style2 btn bg-theme text-title gsap-magnetic wow img-custom-anim-left animated" href="contact.php">
                     <span class="link-effect">
                         <span class="effect-1">LET'S TALK <br> WITH US</span>
                         <span class="effect-1">LET'S TALK <br> WITH US</span>
@@ -48,10 +48,10 @@
                             <img src="assets/img/icon/feature-icon1-1.svg" alt="icon">
                         </div>
                         <h4 class="feature-card-title">
-                            <a href="project.html">Branding Design</a>
+                            <a href="project.php">Branding Design</a>
                         </h4>
                         <p class="feature-card-text">We care success relationships fuel success we love building</p>
-                        <a href="project-details.html" class="link-btn">
+                        <a href="project-details.php" class="link-btn">
                             <span class="link-effect">
                                 <span class="effect-1">VIEW DETAILS</span>
                                 <span class="effect-1">VIEW DETAILS</span>
@@ -66,10 +66,10 @@
                             <img src="assets/img/icon/feature-icon1-2.svg" alt="icon">
                         </div>
                         <h4 class="feature-card-title">
-                            <a href="project.html">Web Development</a>
+                            <a href="project.php">Web Development</a>
                         </h4>
                         <p class="feature-card-text">We care success relationships fuel success we love building</p>
-                        <a href="project-details.html" class="link-btn">
+                        <a href="project-details.php" class="link-btn">
                             <span class="link-effect">
                                 <span class="effect-1">VIEW DETAILS</span>
                                 <span class="effect-1">VIEW DETAILS</span>
@@ -84,10 +84,10 @@
                             <img src="assets/img/icon/feature-icon1-3.svg" alt="icon">
                         </div>
                         <h4 class="feature-card-title">
-                            <a href="project.html">Digital Marketing</a>
+                            <a href="project.php">Digital Marketing</a>
                         </h4>
                         <p class="feature-card-text">We care success relationships fuel success we love building</p>
-                        <a href="project-details.html" class="link-btn">
+                        <a href="project-details.php" class="link-btn">
                             <span class="link-effect">
                                 <span class="effect-1">VIEW DETAILS</span>
                                 <span class="effect-1">VIEW DETAILS</span>
@@ -102,10 +102,10 @@
                             <img src="assets/img/icon/feature-icon1-1.svg" alt="icon">
                         </div>
                         <h4 class="feature-card-title">
-                            <a href="project.html">Branding Design</a>
+                            <a href="project.php">Branding Design</a>
                         </h4>
                         <p class="feature-card-text">We care success relationships fuel success we love building</p>
-                        <a href="project-details.html" class="link-btn">
+                        <a href="project-details.php" class="link-btn">
                             <span class="link-effect">
                                 <span class="effect-1">VIEW DETAILS</span>
                                 <span class="effect-1">VIEW DETAILS</span>
@@ -120,10 +120,10 @@
                             <img src="assets/img/icon/feature-icon1-2.svg" alt="icon">
                         </div>
                         <h4 class="feature-card-title">
-                            <a href="project.html">Web Development</a>
+                            <a href="project.php">Web Development</a>
                         </h4>
                         <p class="feature-card-text">We care success relationships fuel success we love building</p>
-                        <a href="project-details.html" class="link-btn">
+                        <a href="project-details.php" class="link-btn">
                             <span class="link-effect">
                                 <span class="effect-1">VIEW DETAILS</span>
                                 <span class="effect-1">VIEW DETAILS</span>
@@ -138,10 +138,10 @@
                             <img src="assets/img/icon/feature-icon1-3.svg" alt="icon">
                         </div>
                         <h4 class="feature-card-title">
-                            <a href="project.html">Digital Marketing</a>
+                            <a href="project.php">Digital Marketing</a>
                         </h4>
                         <p class="feature-card-text">We care success relationships fuel success we love building</p>
-                        <a href="project-details.html" class="link-btn">
+                        <a href="project-details.php" class="link-btn">
                             <span class="link-effect">
                                 <span class="effect-1">VIEW DETAILS</span>
                                 <span class="effect-1">VIEW DETAILS</span>
@@ -165,7 +165,7 @@
                         <li class="single-award-list">
                             <span class="award-year">2017</span>
                             <div class="award-details">
-                                <h4><a href="about.html">New York Design Week</a></h4>
+                                <h4><a href="about.php">New York Design Week</a></h4>
                                 <p>We bring to life the most complex projects, specialize</p>
                             </div>
                             <span class="award-tag">Main developer</span>
@@ -173,7 +173,7 @@
                         <li class="single-award-list">
                             <span class="award-year">2019</span>
                             <div class="award-details">
-                                <h4><a href="about.html">The Blue Design Awards</a></h4>
+                                <h4><a href="about.php">The Blue Design Awards</a></h4>
                                 <p>We bring to life the most complex projects, specialize</p>
                             </div>
                             <span class="award-tag">Animator</span>
@@ -181,7 +181,7 @@
                         <li class="single-award-list">
                             <span class="award-year">2019</span>
                             <div class="award-details">
-                                <h4><a href="about.html">Best Web Flow</a></h4>
+                                <h4><a href="about.php">Best Web Flow</a></h4>
                                 <p>We bring to life the most complex projects, specialize</p>
                             </div>
                             <span class="award-tag">Main developer</span>
@@ -189,7 +189,7 @@
                         <li class="single-award-list">
                             <span class="award-year">2019</span>
                             <div class="award-details">
-                                <h4><a href="about.html">Berlin Interactive Award</a></h4>
+                                <h4><a href="about.php">Berlin Interactive Award</a></h4>
                                 <p>We bring to life the most complex projects, specialize</p>
                             </div>
                             <span class="award-tag">Best innovations</span>
@@ -216,14 +216,14 @@
                                 <div class="portfolio-details">
                                     <div class="media-left">
                                         <ul class="portfolio-meta">
-                                            <li><a href="blog.html">Branding</a></li>
-                                            <li><a href="blog.html">Development</a></li>
-                                            <li><a href="blog.html">Marketing</a></li>
+                                            <li><a href="blog.php">Branding</a></li>
+                                            <li><a href="blog.php">Development</a></li>
+                                            <li><a href="blog.php">Marketing</a></li>
                                         </ul>
-                                        <h3 class="portfolio-title"><a href="project-details.html">Decentralized Lending Platform for Students</a></h3>
+                                        <h3 class="portfolio-title"><a href="project-details.php">Decentralized Lending Platform for Students</a></h3>
                                     </div>
                                     <div class="portfolio-details-btn">
-                                        <a href="project-details.html" class="link-btn">
+                                        <a href="project-details.php" class="link-btn">
                                             <span class="link-effect">
                                                 <span class="effect-1">VIEW PROJECT</span>
                                                 <span class="effect-1">VIEW PROJECT</span>
@@ -242,14 +242,14 @@
                                 <div class="portfolio-details">
                                     <div class="media-left">
                                         <ul class="portfolio-meta">
-                                            <li><a href="blog.html">Branding</a></li>
-                                            <li><a href="blog.html">Development</a></li>
-                                            <li><a href="blog.html">Marketing</a></li>
+                                            <li><a href="blog.php">Branding</a></li>
+                                            <li><a href="blog.php">Development</a></li>
+                                            <li><a href="blog.php">Marketing</a></li>
                                         </ul>
-                                        <h3 class="portfolio-title"><a href="project-details.html">Anti Money Laundering Compliance Scanner</a></h3>
+                                        <h3 class="portfolio-title"><a href="project-details.php">Anti Money Laundering Compliance Scanner</a></h3>
                                     </div>
                                     <div class="portfolio-details-btn">
-                                        <a href="project-details.html" class="link-btn">
+                                        <a href="project-details.php" class="link-btn">
                                             <span class="link-effect">
                                                 <span class="effect-1">VIEW PROJECT</span>
                                                 <span class="effect-1">VIEW PROJECT</span>
@@ -268,14 +268,14 @@
                                 <div class="portfolio-details">
                                     <div class="media-left">
                                         <ul class="portfolio-meta">
-                                            <li><a href="blog.html">Branding</a></li>
-                                            <li><a href="blog.html">Development</a></li>
-                                            <li><a href="blog.html">Marketing</a></li>
+                                            <li><a href="blog.php">Branding</a></li>
+                                            <li><a href="blog.php">Development</a></li>
+                                            <li><a href="blog.php">Marketing</a></li>
                                         </ul>
-                                        <h3 class="portfolio-title"><a href="project-details.html">Shopify Redesign for a Nova Scotia Winery</a></h3>
+                                        <h3 class="portfolio-title"><a href="project-details.php">Shopify Redesign for a Nova Scotia Winery</a></h3>
                                     </div>
                                     <div class="portfolio-details-btn">
-                                        <a href="project-details.html" class="link-btn">
+                                        <a href="project-details.php" class="link-btn">
                                             <span class="link-effect">
                                                 <span class="effect-1">VIEW PROJECT</span>
                                                 <span class="effect-1">VIEW PROJECT</span>
@@ -294,14 +294,14 @@
                                 <div class="portfolio-details">
                                     <div class="media-left">
                                         <ul class="portfolio-meta">
-                                            <li><a href="blog.html">Branding</a></li>
-                                            <li><a href="blog.html">Development</a></li>
-                                            <li><a href="blog.html">Marketing</a></li>
+                                            <li><a href="blog.php">Branding</a></li>
+                                            <li><a href="blog.php">Development</a></li>
+                                            <li><a href="blog.php">Marketing</a></li>
                                         </ul>
-                                        <h3 class="portfolio-title"><a href="project-details.html">Money Laundering Compliance Scanner</a></h3>
+                                        <h3 class="portfolio-title"><a href="project-details.php">Money Laundering Compliance Scanner</a></h3>
                                     </div>
                                     <div class="portfolio-details-btn">
-                                        <a href="project-details.html" class="link-btn">
+                                        <a href="project-details.php" class="link-btn">
                                             <span class="link-effect">
                                                 <span class="effect-1">VIEW PROJECT</span>
                                                 <span class="effect-1">VIEW PROJECT</span>
@@ -339,7 +339,7 @@
                             <img src="assets/img/team/team-1-1.png" alt="Team Image">
                         </div>
                         <div class="team-card_content">
-                            <h3 class="team-card_title"><a href="team-details.html">Daniyel Karlos</a></h3>
+                            <h3 class="team-card_title"><a href="team-details.php">Daniyel Karlos</a></h3>
                             <span class="team-card_desig">Web Developer</span>
                         </div>
                     </div>
@@ -350,7 +350,7 @@
                             <img src="assets/img/team/team-1-2.png" alt="Team Image">
                         </div>
                         <div class="team-card_content">
-                            <h3 class="team-card_title"><a href="team-details.html">Daniyel Karlos</a></h3>
+                            <h3 class="team-card_title"><a href="team-details.php">Daniyel Karlos</a></h3>
                             <span class="team-card_desig">Web Developer</span>
                         </div>
                     </div>
@@ -361,7 +361,7 @@
                             <img src="assets/img/team/team-1-3.png" alt="Team Image">
                         </div>
                         <div class="team-card_content">
-                            <h3 class="team-card_title"><a href="team-details.html">Daniyel Karlos</a></h3>
+                            <h3 class="team-card_title"><a href="team-details.php">Daniyel Karlos</a></h3>
                             <span class="team-card_desig">Web Developer</span>
                         </div>
                     </div>
@@ -372,7 +372,7 @@
                             <img src="assets/img/team/team-1-4.png" alt="Team Image">
                         </div>
                         <div class="team-card_content">
-                            <h3 class="team-card_title"><a href="team-details.html">Daniyel Karlos</a></h3>
+                            <h3 class="team-card_title"><a href="team-details.php">Daniyel Karlos</a></h3>
                             <span class="team-card_desig">Web Developer</span>
                         </div>
                     </div>
@@ -450,17 +450,17 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-card">
                         <div class="blog-img">
-                            <a href="blog-details.html">
+                            <a href="blog-details.php">
                                 <img src="assets/img/blog/blog_1_1.png" alt="blog image">
                             </a>
                         </div>
                         <div class="blog-content">
                             <div class="post-meta-item blog-meta">
-                                <a href="blog.html">March 26, 2024</a>
-                                <a href="blog.html">Branding</a>
+                                <a href="blog.php">March 26, 2024</a>
+                                <a href="blog.php">Branding</a>
                             </div>
-                            <h4 class="blog-title"><a href="blog-details.html">Everything You Should Know About Return</a></h4>
-                            <a href="blog-details.html" class="link-btn">
+                            <h4 class="blog-title"><a href="blog-details.php">Everything You Should Know About Return</a></h4>
+                            <a href="blog-details.php" class="link-btn">
                                 <span class="link-effect">
                                     <span class="effect-1">READ MORE</span>
                                     <span class="effect-1">READ MORE</span>
@@ -473,17 +473,17 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-card">
                         <div class="blog-img">
-                            <a href="blog-details.html">
+                            <a href="blog-details.php">
                                 <img src="assets/img/blog/blog_1_2.png" alt="blog image">
                             </a>
                         </div>
                         <div class="blog-content">
                             <div class="post-meta-item blog-meta">
-                                <a href="blog.html">March 26, 2024</a>
-                                <a href="blog.html">Branding</a>
+                                <a href="blog.php">March 26, 2024</a>
+                                <a href="blog.php">Branding</a>
                             </div>
-                            <h4 class="blog-title"><a href="blog-details.html">6 Big Commerce Design Tips For Big Results</a></h4>
-                            <a href="blog-details.html" class="link-btn">
+                            <h4 class="blog-title"><a href="blog-details.php">6 Big Commerce Design Tips For Big Results</a></h4>
+                            <a href="blog-details.php" class="link-btn">
                                 <span class="link-effect">
                                     <span class="effect-1">READ MORE</span>
                                     <span class="effect-1">READ MORE</span>
@@ -496,17 +496,17 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-card">
                         <div class="blog-img">
-                            <a href="blog-details.html">
+                            <a href="blog-details.php">
                                 <img src="assets/img/blog/blog_1_3.png" alt="blog image">
                             </a>
                         </div>
                         <div class="blog-content">
                             <div class="post-meta-item blog-meta">
-                                <a href="blog.html">March 26, 2024</a>
-                                <a href="blog.html">Branding</a>
+                                <a href="blog.php">March 26, 2024</a>
+                                <a href="blog.php">Branding</a>
                             </div>
-                            <h4 class="blog-title"><a href="blog-details.html">Four Steps to Conduct a Successful Usability</a></h4>
-                            <a href="blog-details.html" class="link-btn">
+                            <h4 class="blog-title"><a href="blog-details.php">Four Steps to Conduct a Successful Usability</a></h4>
+                            <a href="blog-details.php" class="link-btn">
                                 <span class="link-effect">
                                     <span class="effect-1">READ MORE</span>
                                     <span class="effect-1">READ MORE</span>
@@ -531,7 +531,7 @@
                         <h2 class="sec-title">Let's Create Something Great</h2>
                         <p class="sec-text mt-30 mb-40">We shift you from today’s reality to tomorrow’s potential, ensuring</p>
                         <div class="btn-group justify-content-center">
-                            <a href="contact.html" class="btn mt-0">
+                            <a href="contact.php" class="btn mt-0">
                                 <span class="link-effect">
                                     <span class="effect-1">LET’S TALK WITH US</span>
                                     <span class="effect-1">LET’S TALK WITH US</span>

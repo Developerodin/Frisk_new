@@ -75,7 +75,7 @@
             <div class="widget footer-widget">
                 <div class="widget-about">
                     <div class="footer-logo">
-                        <a href="index.html"><img src="assets/img/logo-white.svg" alt="Ovation"></a>
+                        <a href="index.php"><img src="assets/img/logo-white.svg" alt="Ovation"></a>
                     </div>
                     <p class="about-text">We are digital agency that helps businesses develop immersive and engaging</p>
                     <div class="sidebar-wrap">
@@ -115,7 +115,7 @@
                 </div>
             </div>
             <div class="d-flex justify-content-end">
-                <a href="contact.html" class="chat-btn gsap-magnetic">Let’s Talk with us</a>
+                <a href="contact.php" class="chat-btn gsap-magnetic">Let’s Talk with us</a>
             </div>
         </div>
     </div>
@@ -126,65 +126,65 @@
         <div class="mobile-menu-area">
             <button class="menu-toggle"><i class="fas fa-times"></i></button>
             <div class="mobile-logo">
-                <a href="index.html"><img src="assets/img/logo.svg" alt="Ovation"></a>
+                <a href="index.php"><img src="assets/img/logo.svg" alt="Ovation"></a>
             </div>
             <div class="mobile-menu">
                 <ul>
                     <li class="menu-item-has-children">
                         <a href="#">Home</a>
                         <ul class="sub-menu">
-                            <li><a href="index.html">Digital Agency</a></li>
-                            <li><a href="home-2.html">Creative Agency</a></li>
-                            <li><a href="home-3.html">Design Studio</a></li>
-                            <li><a href="home-4.html">Digital Marketing</a></li>
-                            <li><a href="home-5.html">Modern Agency</a></li>
-                            <li><a href="home-6.html">Creative Studio</a></li>
-                            <li><a href="home-7.html">Startup Agency</a></li>
-                            <li><a href="home-8.html">Personal Portfolio</a></li>
+                            <li><a href="index.php">Digital Agency</a></li>
+                            <li><a href="home-2.php">Creative Agency</a></li>
+                            <li><a href="home-3.php">Design Studio</a></li>
+                            <li><a href="home-4.php">Digital Marketing</a></li>
+                            <li><a href="home-5.php">Modern Agency</a></li>
+                            <li><a href="home-6.php">Creative Studio</a></li>
+                            <li><a href="home-7.php">Startup Agency</a></li>
+                            <li><a href="home-8.php">Personal Portfolio</a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children">
                         <a href="#">Pages</a>
                         <ul class="sub-menu">
-                            <li><a href="about.html">About Page</a></li>
-                            <li class="menu-item-has-children"><a href="service.html">Service Page</a>
+                            <li><a href="about.php">About Page</a></li>
+                            <li class="menu-item-has-children"><a href="service.php">Service Page</a>
                                 <ul class="sub-menu">
-                                    <li><a href="service.html">Service Version 1</a></li>
-                                    <li><a href="service-2.html">Service Version 2</a></li>
-                                    <li><a href="service-3.html">Service Version 3</a></li>
-                                    <li><a href="service-details.html">Service Details Page</a></li>
+                                    <li><a href="service.php">Service Version 1</a></li>
+                                    <li><a href="service-2.php">Service Version 2</a></li>
+                                    <li><a href="service-3.php">Service Version 3</a></li>
+                                    <li><a href="service-details.php">Service Details Page</a></li>
                                 </ul>
                             </li>
-                            <li><a href="service-details.html">Service Details</a></li>
-                            <li><a href="team.html">Team Page</a></li>
-                            <li><a href="team-details.html">Team Details Page</a></li>
-                            <li><a href="pricing.html">Pricing Page</a></li>
-                            <li><a href="faq.html">FAQ Page</a></li>
-                            <li><a href="error.html">Error Page</a></li>
+                            <li><a href="service-details.php">Service Details</a></li>
+                            <li><a href="team.php">Team Page</a></li>
+                            <li><a href="team-details.php">Team Details Page</a></li>
+                            <li><a href="pricing.php">Pricing Page</a></li>
+                            <li><a href="faq.php">FAQ Page</a></li>
+                            <li><a href="error.php">Error Page</a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children">
                         <a href="#">Portfolio</a>
                         <ul class="sub-menu">
-                            <li><a href="project.html">Portfolio Masonary</a></li>
-                            <li><a href="project-2.html">Portfolio Pinterest</a></li>
-                            <li><a href="project-3.html">Portfolio Gallery</a></li>
-                            <li><a href="project-4.html">Portfolio Full Width</a></li>
-                            <li><a href="project-5.html">Portfolio Slider</a></li>
-                            <li><a href="project-6.html">Portfolio Interactive</a></li>
-                            <li><a href="project-details.html">Portfolio Details</a></li>
+                            <li><a href="project.php">Portfolio Masonary</a></li>
+                            <li><a href="project-2.php">Portfolio Pinterest</a></li>
+                            <li><a href="project-3.php">Portfolio Gallery</a></li>
+                            <li><a href="project-4.php">Portfolio Full Width</a></li>
+                            <li><a href="project-5.php">Portfolio Slider</a></li>
+                            <li><a href="project-6.php">Portfolio Interactive</a></li>
+                            <li><a href="project-details.php">Portfolio Details</a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children">
                         <a href="#">Blog</a>
                         <ul class="sub-menu">
-                            <li><a href="blog.html">Blog Standard</a></li>
-                            <li><a href="blog-2.html">Blog 2 Column</a></li>
-                            <li><a href="blog-details.html">Blog Details</a></li>
+                            <li><a href="blog.php">Blog Standard</a></li>
+                            <li><a href="blog-2.php">Blog 2 Column</a></li>
+                            <li><a href="blog-details.php">Blog Details</a></li>
                         </ul>
                     </li>
                     <li>
-                        <a href="contact.html">Contact</a>
+                        <a href="contact.php">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -235,7 +235,7 @@
                     <div class="row align-items-center justify-content-between">
                         <div class="col-auto">
                             <div class="header-logo">
-                                <a href="index.html"><img src="assets/img/logo.svg" alt="logo"></a>
+                                <a href="index.php"><img src="assets/img/logo.svg" alt="logo"></a>
                             </div>
                         </div>
                         <div class="col-auto ms-auto">
@@ -249,14 +249,14 @@
                                             </span>
                                         </a>
                                         <ul class="sub-menu">
-                                            <li><a href="index.html">Digital Agency</a></li>
-                                            <li><a href="home-2.html">Creative Agency</a></li>
-                                            <li><a href="home-3.html">Design Studio</a></li>
-                                            <li><a href="home-4.html">Digital Marketing</a></li>
-                                            <li><a href="home-5.html">Modern Agency</a></li>
-                                            <li><a href="home-6.html">Creative Studio</a></li>
-                                            <li><a href="home-7.html">Startup Agency</a></li>
-                                            <li><a href="home-8.html">Personal Portfolio</a></li>
+                                            <li><a href="index.php">Digital Agency</a></li>
+                                            <li><a href="home-2.php">Creative Agency</a></li>
+                                            <li><a href="home-3.php">Design Studio</a></li>
+                                            <li><a href="home-4.php">Digital Marketing</a></li>
+                                            <li><a href="home-5.php">Modern Agency</a></li>
+                                            <li><a href="home-6.php">Creative Studio</a></li>
+                                            <li><a href="home-7.php">Startup Agency</a></li>
+                                            <li><a href="home-8.php">Personal Portfolio</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item-has-children">
@@ -267,22 +267,22 @@
                                             </span>
                                         </a>
                                         <ul class="sub-menu">
-                                            <li><a href="about.html">About Page</a></li>
-                                            <li class="menu-item-has-children"><a href="service.html">Service Page</a>
+                                            <li><a href="about.php">About Page</a></li>
+                                            <li class="menu-item-has-children"><a href="service.php">Service Page</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="service.html">Service Version 1</a></li>
-                                                    <li><a href="service-2.html">Service Version 2</a></li>
-                                                    <li><a href="service-3.html">Service Version 3</a></li>
-                                                    <li><a href="service-details.html">Service Details Page</a></li>
+                                                    <li><a href="service.php">Service Version 1</a></li>
+                                                    <li><a href="service-2.php">Service Version 2</a></li>
+                                                    <li><a href="service-3.php">Service Version 3</a></li>
+                                                    <li><a href="service-details.php">Service Details Page</a></li>
                                                 </ul>
                                             </li>
                                             <li>
-                                                <a href="team.html">Team Page</a>
+                                                <a href="team.php">Team Page</a>
                                             </li>
-                                            <li><a href="team-details.html">Team Details Page</a></li>
-                                            <li><a href="pricing.html">Pricing Page</a></li>
-                                            <li><a href="faq.html">FAQ Page</a></li>
-                                            <li><a href="error.html">Error Page</a></li>
+                                            <li><a href="team-details.php">Team Details Page</a></li>
+                                            <li><a href="pricing.php">Pricing Page</a></li>
+                                            <li><a href="faq.php">FAQ Page</a></li>
+                                            <li><a href="error.php">Error Page</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item-has-children">
@@ -293,13 +293,13 @@
                                             </span>
                                         </a>
                                         <ul class="sub-menu">
-                                            <li><a href="project.html">Portfolio Masonary</a></li>
-                                            <li><a href="project-2.html">Portfolio Pinterest</a></li>
-                                            <li><a href="project-3.html">Portfolio Gallery</a></li>
-                                            <li><a href="project-4.html">Portfolio Full Width</a></li>
-                                            <li><a href="project-5.html">Portfolio Slider</a></li>
-                                            <li><a href="project-6.html">Portfolio Interactive</a></li>
-                                            <li><a href="project-details.html">Portfolio Details</a></li>
+                                            <li><a href="project.php">Portfolio Masonary</a></li>
+                                            <li><a href="project-2.php">Portfolio Pinterest</a></li>
+                                            <li><a href="project-3.php">Portfolio Gallery</a></li>
+                                            <li><a href="project-4.php">Portfolio Full Width</a></li>
+                                            <li><a href="project-5.php">Portfolio Slider</a></li>
+                                            <li><a href="project-6.php">Portfolio Interactive</a></li>
+                                            <li><a href="project-details.php">Portfolio Details</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item-has-children">
@@ -310,13 +310,13 @@
                                             </span>
                                         </a>
                                         <ul class="sub-menu">
-                                            <li><a href="blog.html">Blog Standard</a></li>
-                                            <li><a href="blog-2.html">Blog 2 Column</a></li>
-                                            <li><a href="blog-details.html">Blog Details</a></li>
+                                            <li><a href="blog.php">Blog Standard</a></li>
+                                            <li><a href="blog-2.php">Blog 2 Column</a></li>
+                                            <li><a href="blog-details.php">Blog Details</a></li>
                                         </ul>
                                     </li>
                                     <li class="active">
-                                        <a href="contact.html">
+                                        <a href="contact.php">
                                             <span class="link-effect">
                                                 <span class="effect-1">CONTACT</span>
                                                 <span class="effect-1">CONTACT</span>
@@ -335,7 +335,7 @@
                         </div>
                         <div class="col-auto d-none d-lg-block">
                             <div class="header-button">
-                                <a href="project.html" class="btn">
+                                <a href="project.php" class="btn">
                                     <span class="link-effect">
                                         <span class="effect-1">WORKS WITH US</span>
                                         <span class="effect-1">WORKS WITH US</span>
@@ -373,7 +373,7 @@
                         </div>
                         <div class="feature-card-details">
                             <h4 class="feature-card-title">
-                                <a href="project.html">Headquarters</a>
+                                <a href="project.php">Headquarters</a>
                             </h4>
                             <p class="feature-card-text mb-0">The Neuralnest FZ-LLC , FDCW0523 , Hamra Industrial Zone-FZ,Ras Al Khaimah, United Arab Emirates </p>
                             <!-- <p class="feature-card-text">NY 10002, USA </p> -->
@@ -395,7 +395,7 @@
                         </div>
                         <div class="feature-card-details">
                             <h4 class="feature-card-title">
-                                <a href="project.html">Email Address</a>
+                                <a href="project.php">Email Address</a>
                             </h4>
                             <p class="feature-card-text mb-0">anirruddha.saran@theneuralnest.com</p>
                             <p class="feature-card-text">info@theneuralnest.com </p> 
@@ -416,7 +416,7 @@
                         </div>
                         <div class="feature-card-details">
                             <h4 class="feature-card-title">
-                                <a href="project.html">Phone Number</a>
+                                <a href="project.php">Phone Number</a>
                             </h4>
                             <p class="feature-card-text mb-0">+918239966666 </p>
                             <p class="feature-card-text"> </p> 
@@ -440,7 +440,9 @@
     ==============================-->
     <div class="contact-area-1 space bg-theme">
         <div class="contact-map shape-mockup wow img-custom-anim-left animated" data-wow-duration="1.5s" data-wow-delay="0.2s" data-left="0" data-top="-100px" data-bottom="140px">
-            <iframe src="https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&t=m&z=10&output=embed&iwloc=near" allowfullscreen="" loading="lazy"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d925134.3210715873!2d54.568041327437584!3d25.0745656650172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43496ad9c645%3A0xbde66e5084295162!2sDubai%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2sin!4v1713780169088!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+                
         </div>
         <div class="container">
             <div class="row align-items-center justify-content-end">
@@ -493,13 +495,14 @@
     Marquee Area
     ==============================-->
     <div class="container-fluid p-0 overflow-hidden">
-        <div class="slider__marquee clearfix marquee-wrap">
-            <div class="marquee_mode marquee__group">
-                <h6 class="item m-item"><a href="#"><i class="fas fa-star-of-life"></i> Guaranteed Publicity</a></h6>
-                <h6 class="item m-item"><a href="#"><i class="fas fa-star-of-life"></i> Money Back Guarantee</a></h6>
-            </div>
+    <div class="slider__marquee clearfix marquee-wrap">
+        <div class="marquee_mode marquee__group">
+            <h6 class="item m-item"><a href="#"><i class="fas fa-star-of-life"></i> Guaranteed Publicity</a></h6>
+            <h6 class="item m-item"><a href="#"><i class="fas fa-star-of-life"></i> 100% Money Back Guarantee</a>
+            </h6>
         </div>
     </div>
+</div>
 
 
     <!--==============================
@@ -526,11 +529,11 @@
                             <h3 class="widget_title">Links</h3>
                             <div class="menu-all-pages-container list-column2">
                                 <ul class="menu">
-                                    <li><a href="about.html"> About</a></li>
-                                    <li><a href="project.html">Portfolios</a></li>
-                                    <li><a href="service.html">Services</a></li>
-                                    <li><a href="contact.html">Testimonials</a></li>
-                                    <li><a href="project.html">Careers</a></li>
+                                    <li><a href="about.php"> About</a></li>
+                                    <li><a href="project.php">Portfolios</a></li>
+                                    <li><a href="service.php">Services</a></li>
+                                    <li><a href="contact.php">Testimonials</a></li>
+                                    <li><a href="project.php">Careers</a></li>
                                 </ul>
                             </div>
                         </div>

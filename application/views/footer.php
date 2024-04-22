@@ -13,7 +13,7 @@
           <div class="col-lg-5">
             <div class="footer-top-wrap">
               <p class="mb-30">Our relentless commitment to excellence, combined with our dedication to understanding our clients' unique needs, allows us to create tailored PR campaigns that resonate with audiences and drive tangible results.</p>
-              <a href="contact.html" class="btn">
+              <a href="contact.php" class="btn">
                 <span class="link-effect">
                   <span class="effect-1">LET'S TALK WITH US</span>
                   <span class="effect-1">LET'S TALK WITH US</span>
@@ -28,7 +28,7 @@
           <div class="col-xxl-6 col-lg-7">
             <ul class="footer-menu-list">
               <li>
-                <a href="about.html">
+                <a href="about.php">
                   <span class="link-effect">
                     <span class="effect-1">ABOUT COMPANY</span>
                     <span class="effect-1">ABOUT COMPANY</span>
@@ -36,7 +36,7 @@
                 </a>
               </li>
               <li>
-                <a href="project.html">
+                <a href="project.php">
                   <span class="link-effect">
                     <span class="effect-1">OUR CAREERS</span>
                     <span class="effect-1">OUR CAREERS</span>
@@ -44,7 +44,7 @@
                 </a>
               </li>
               <li>
-                <a href="service.html">
+                <a href="service.php">
                   <span class="link-effect">
                     <span class="effect-1">SERVICES</span>
                     <span class="effect-1">SERVICES</span>
@@ -52,7 +52,7 @@
                 </a>
               </li>
               <li>
-                <a href="contact.html">
+                <a href="contact.php">
                   <span class="link-effect">
                     <span class="effect-1">CONTACT</span>
                     <span class="effect-1">CONTACT</span>
@@ -64,7 +64,7 @@
           <div class="col-xxl-6 col-lg-5 text-lg-end">
             <ul class="footer-menu-list">
               <li>
-                <a href="about.html">
+                <a href="about.php">
                   <span class="link-effect">
                     <span class="effect-1">PRIVACY POLICY</span>
                     <span class="effect-1">PRIVACY POLICY</span>
@@ -72,7 +72,7 @@
                 </a>
               </li>
               <li>
-                <a href="project.html">
+                <a href="project.php">
                   <span class="link-effect">
                     <span class="effect-1">TERMS & CONDITIONS</span>
                     <span class="effect-1">TERMS & CONDITIONS</span>

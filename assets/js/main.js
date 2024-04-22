@@ -611,7 +611,7 @@
     =============================================*/
     $(".masonary-active").imagesLoaded(function () {
         var $filter = ".masonary-active",
-            $filterItem = ".filter-item";
+            $filterItem = ".";
 
         if ($($filter).length > 0) {
             var $grid = $($filter).isotope({

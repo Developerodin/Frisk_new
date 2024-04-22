@@ -20,7 +20,7 @@
                     <p class="hero-text wow img-custom-anim-left animated text-white">We are digital agency that helps
                         immersive and engaging user experiences that</p>
                     <div class="btn-group fade_left">
-                        <a href="project.html" class="btn style2 wow img-custom-anim-left animated">
+                        <a href="project.php" class="btn style2 wow img-custom-anim-left animated">
                             <span class="link-effect">
                                 <span class="effect-1">VIEW OUR WORKS</span>
                                 <span class="effect-1">VIEW OUR WORKS</span>
@@ -89,11 +89,11 @@
                         <img src="assets/img/icon/feature-icon1-1.svg" alt="icon">
                     </div>
                     <h4 class="feature-card-title">
-                        <a href="project.html">Branding Design</a>
+                        <a href="project.php">Branding Design</a>
                     </h4>
                     <p class="feature-card-text">We care success relationships fuel real success We love building brands
                         and helping</p>
-                    <a href="project-details.html" class="link-btn">
+                    <a href="project-details.php" class="link-btn">
                         <span class="link-effect">
                             <span class="effect-1">VIEW DETAILS</span>
                             <span class="effect-1">VIEW DETAILS</span>
@@ -108,11 +108,11 @@
                         <img src="assets/img/icon/feature-icon1-2.svg" alt="icon">
                     </div>
                     <h4 class="feature-card-title">
-                        <a href="project.html">Website Development</a>
+                        <a href="project.php">Website Development</a>
                     </h4>
                     <p class="feature-card-text">We care success relationships fuel real success We love building brands
                         and helping</p>
-                    <a href="project-details.html" class="link-btn">
+                    <a href="project-details.php" class="link-btn">
                         <span class="link-effect">
                             <span class="effect-1">VIEW DETAILS</span>
                             <span class="effect-1">VIEW DETAILS</span>
@@ -127,11 +127,11 @@
                         <img src="assets/img/icon/feature-icon1-3.svg" alt="icon">
                     </div>
                     <h4 class="feature-card-title">
-                        <a href="project.html">Illustration Modelling</a>
+                        <a href="project.php">Illustration Modelling</a>
                     </h4>
                     <p class="feature-card-text">We care success relationships fuel real success We love building brands
                         and helping</p>
-                    <a href="project-details.html" class="link-btn">
+                    <a href="project-details.php" class="link-btn">
                         <span class="link-effect">
                             <span class="effect-1">VIEW DETAILS</span>
                             <span class="effect-1">VIEW DETAILS</span>
@@ -146,11 +146,11 @@
                         <img src="assets/img/icon/feature-icon1-4.svg" alt="icon">
                     </div>
                     <h4 class="feature-card-title">
-                        <a href="project.html">Digital Marketing</a>
+                        <a href="project.php">Digital Marketing</a>
                     </h4>
                     <p class="feature-card-text">We care success relationships fuel real success We love building brands
                         and helping</p>
-                    <a href="project-details.html" class="link-btn">
+                    <a href="project-details.php" class="link-btn">
                         <span class="link-effect">
                             <span class="effect-1">VIEW DETAILS</span>
                             <span class="effect-1">VIEW DETAILS</span>
@@ -237,7 +237,7 @@
             data-xl-center-padding="400px" data-ml-center-padding="400px" data-lg-center-padding="300px"
             data-dots="true" data-xl-dots="true" data-ml-dots="true">
             <div class="col-lg-4">
-                <a href="project-details.html" class="portfolio-wrap style2">
+                <a href="project-details.php" class="portfolio-wrap style2">
                     <div class="portfolio-thumb">
                         <img src="assets/img/portfolio/portfolio2_1.jpg" alt="portfolio">
                     </div>
@@ -250,7 +250,7 @@
                 </a>
             </div>
             <div class="col-lg-4">
-                <a href="project-details.html" class="portfolio-wrap style2">
+                <a href="project-details.php" class="portfolio-wrap style2">
                     <div class="portfolio-thumb">
                         <img src="assets/img/portfolio/portfolio2_2.jpg" alt="portfolio">
                     </div>
@@ -263,7 +263,7 @@
                 </a>
             </div>
             <div class="col-lg-4">
-                <a href="project-details.html" class="portfolio-wrap style2">
+                <a href="project-details.php" class="portfolio-wrap style2">
                     <div class="portfolio-thumb">
                         <img src="assets/img/portfolio/portfolio2_3.jpg" alt="portfolio">
                     </div>
@@ -276,7 +276,7 @@
                 </a>
             </div>
             <div class="col-lg-4">
-                <a href="project-details.html" class="portfolio-wrap style2">
+                <a href="project-details.php" class="portfolio-wrap style2">
                     <div class="portfolio-thumb">
                         <img src="assets/img/portfolio/portfolio2_1.jpg" alt="portfolio">
                     </div>
@@ -289,7 +289,7 @@
                 </a>
             </div>
             <div class="col-lg-4">
-                <a href="project-details.html" class="portfolio-wrap style2">
+                <a href="project-details.php" class="portfolio-wrap style2">
                     <div class="portfolio-thumb">
                         <img src="assets/img/portfolio/portfolio2_2.jpg" alt="portfolio">
                     </div>
@@ -302,7 +302,7 @@
                 </a>
             </div>
             <div class="col-lg-4">
-                <a href="project-details.html" class="portfolio-wrap style2">
+                <a href="project-details.php" class="portfolio-wrap style2">
                     <div class="portfolio-thumb">
                         <img src="assets/img/portfolio/portfolio2_3.jpg" alt="portfolio">
                     </div>
@@ -329,7 +329,7 @@
                     <li class="single-award-list">
                         <span class="award-year">2017</span>
                         <div class="award-details">
-                            <h4><a href="about.html">New York Design Week</a></h4>
+                            <h4><a href="about.php">New York Design Week</a></h4>
                             <p>We bring to life the most complex projects, specialize</p>
                         </div>
                         <span class="award-tag">Main developer</span>
@@ -337,7 +337,7 @@
                     <li class="single-award-list">
                         <span class="award-year">2019</span>
                         <div class="award-details">
-                            <h4><a href="about.html">The Blue Design Awards</a></h4>
+                            <h4><a href="about.php">The Blue Design Awards</a></h4>
                             <p>We bring to life the most complex projects, specialize</p>
                         </div>
                         <span class="award-tag">Animator</span>
@@ -345,7 +345,7 @@
                     <li class="single-award-list">
                         <span class="award-year">2019</span>
                         <div class="award-details">
-                            <h4><a href="about.html">Best Web Flow</a></h4>
+                            <h4><a href="about.php">Best Web Flow</a></h4>
                             <p>We bring to life the most complex projects, specialize</p>
                         </div>
                         <span class="award-tag">Main developer</span>
@@ -353,7 +353,7 @@
                     <li class="single-award-list">
                         <span class="award-year">2019</span>
                         <div class="award-details">
-                            <h4><a href="about.html">Berlin Interactive Award</a></h4>
+                            <h4><a href="about.php">Berlin Interactive Award</a></h4>
                             <p>We bring to life the most complex projects, specialize</p>
                         </div>
                         <span class="award-tag">Best innovations</span>
@@ -397,7 +397,7 @@
         </div>
         <div class="row gy-30 justify-content-center">
             <div class="col-lg-4 col-md-6">
-                <a href="blog-details.html" class="blog-card style2">
+                <a href="blog-details.php" class="blog-card style2">
                     <div class="blog-img">
                         <img src="assets/img/blog/blog_2_1.png" alt="blog image">
                     </div>
@@ -418,7 +418,7 @@
                 </a>
             </div>
             <div class="col-lg-4 col-md-6">
-                <a href="blog-details.html" class="blog-card style2">
+                <a href="blog-details.php" class="blog-card style2">
                     <div class="blog-img">
                         <img src="assets/img/blog/blog_2_2.png" alt="blog image">
                     </div>
@@ -439,7 +439,7 @@
                 </a>
             </div>
             <div class="col-lg-4 col-md-6">
-                <a href="blog-details.html" class="blog-card style2">
+                <a href="blog-details.php" class="blog-card style2">
                     <div class="blog-img">
                         <img src="assets/img/blog/blog_2_3.png" alt="blog image">
                     </div>
@@ -553,7 +553,7 @@
                     <p class="sec-text mt-30 mb-40">We shift you from today’s reality to tomorrow’s potential, ensuring
                     </p>
                     <div class="btn-group justify-content-center">
-                        <a href="contact.html" class="btn mt-0">
+                        <a href="contact.php" class="btn mt-0">
                             <span class="link-effect">
                                 <span class="effect-1">LET’S TALK WITH US</span>
                                 <span class="effect-1">LET’S TALK WITH US</span>

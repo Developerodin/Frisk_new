@@ -92,11 +92,11 @@
                         <li class="single-award-list style2 tg-img-reveal-item" data-fx="1" data-img="assets/img/award/award-1-1.png">
                             <span class="award-year">2017</span>
                             <div class="award-details">
-                                <h4><a href="project.html">Decentralized Platform</a></h4>
+                                <h4><a href="project.php">Decentralized Platform</a></h4>
                                 <div class="award-meta">
-                                    <a href="project.html">Branding</a>
-                                    <a href="project.html">Development</a>
-                                    <a href="project.html">Marketing</a>
+                                    <a href="project.php">Branding</a>
+                                    <a href="project.php">Development</a>
+                                    <a href="project.php">Marketing</a>
                                 </div>
                             </div>
                             <span class="award-tag">Webflow</span>
@@ -104,10 +104,10 @@
                         <li class="single-award-list style2 tg-img-reveal-item" data-fx="1" data-img="assets/img/award/award-1-2.png">
                             <span class="award-year">2019</span>
                             <div class="award-details">
-                                <h4><a href="project.html">App for Business</a></h4>
+                                <h4><a href="project.php">App for Business</a></h4>
                                 <div class="award-meta">
-                                    <a href="project.html">Development</a>
-                                    <a href="project.html">Marketing</a>
+                                    <a href="project.php">Development</a>
+                                    <a href="project.php">Marketing</a>
                                 </div>
                             </div>
                             <span class="award-tag">Themeforest</span>
@@ -115,10 +115,10 @@
                         <li class="single-award-list style2 tg-img-reveal-item" data-fx="1" data-img="assets/img/award/award-1-3.png">
                             <span class="award-year">2019</span>
                             <div class="award-details">
-                                <h4><a href="project.html">Website Development</a></h4>
+                                <h4><a href="project.php">Website Development</a></h4>
                                 <div class="award-meta">
-                                    <a href="project.html">Branding</a>
-                                    <a href="project.html">Development</a>
+                                    <a href="project.php">Branding</a>
+                                    <a href="project.php">Development</a>
                                 </div>
                             </div>
                             <span class="award-tag">Framer</span>
@@ -126,11 +126,11 @@
                         <li class="single-award-list style2 tg-img-reveal-item" data-fx="1" data-img="assets/img/award/award-1-4.png">
                             <span class="award-year">2022</span>
                             <div class="award-details">
-                                <h4><a href="project.html">Nova Scotia Winery</a></h4>
+                                <h4><a href="project.php">Nova Scotia Winery</a></h4>
                                 <div class="award-meta">
-                                    <a href="project.html">Branding</a>
-                                    <a href="project.html">Development</a>
-                                    <a href="project.html">Marketing</a>
+                                    <a href="project.php">Branding</a>
+                                    <a href="project.php">Development</a>
+                                    <a href="project.php">Marketing</a>
                                 </div>
                             </div>
                             <span class="award-tag">Template monster</span>
@@ -138,17 +138,17 @@
                         <li class="single-award-list style2 tg-img-reveal-item" data-fx="1" data-img="assets/img/award/award-1-5.png">
                             <span class="award-year">2023</span>
                             <div class="award-details">
-                                <h4><a href="project.html">Educational Platform</a></h4>
+                                <h4><a href="project.php">Educational Platform</a></h4>
                                 <div class="award-meta">
-                                    <a href="project.html">Marketing</a>
-                                    <a href="project.html">Branding</a>
+                                    <a href="project.php">Marketing</a>
+                                    <a href="project.php">Branding</a>
                                 </div>
                             </div>
                             <span class="award-tag">Themeforest</span>
                         </li>
                     </ul>
                     <div class="btn-wrap mt-50 justify-content-center">
-                        <a href="project.html" class="btn">
+                        <a href="project.php" class="btn">
                             <span class="link-effect">
                                 <span class="effect-1">VIEW ALL PROJECTS</span>
                                 <span class="effect-1">VIEW ALL PROJECTS</span>
@@ -179,10 +179,10 @@
                             <img src="assets/img/icon/feature-icon1-1.svg" alt="icon">
                         </div>
                         <h4 class="feature-card-title">
-                            <a href="project.html">Branding Design</a>
+                            <a href="project.php">Branding Design</a>
                         </h4>
                         <p class="feature-card-text">We care success relationships fuel success we love building</p>
-                        <a href="project-details.html" class="link-btn">
+                        <a href="project-details.php" class="link-btn">
                             <span class="link-effect">
                                 <span class="effect-1">VIEW DETAILS</span>
                                 <span class="effect-1">VIEW DETAILS</span>
@@ -197,10 +197,10 @@
                             <img src="assets/img/icon/feature-icon1-2.svg" alt="icon">
                         </div>
                         <h4 class="feature-card-title">
-                            <a href="project.html">Web Development</a>
+                            <a href="project.php">Web Development</a>
                         </h4>
                         <p class="feature-card-text">We care success relationships fuel success we love building</p>
-                        <a href="project-details.html" class="link-btn">
+                        <a href="project-details.php" class="link-btn">
                             <span class="link-effect">
                                 <span class="effect-1">VIEW DETAILS</span>
                                 <span class="effect-1">VIEW DETAILS</span>
@@ -215,10 +215,10 @@
                             <img src="assets/img/icon/feature-icon1-3.svg" alt="icon">
                         </div>
                         <h4 class="feature-card-title">
-                            <a href="project.html">Digital Marketing</a>
+                            <a href="project.php">Digital Marketing</a>
                         </h4>
                         <p class="feature-card-text">We care success relationships fuel success we love building</p>
-                        <a href="project-details.html" class="link-btn">
+                        <a href="project-details.php" class="link-btn">
                             <span class="link-effect">
                                 <span class="effect-1">VIEW DETAILS</span>
                                 <span class="effect-1">VIEW DETAILS</span>
@@ -304,17 +304,17 @@
                         <div class="blog-grid-static">
                             <div class="blog-grid">
                                 <div class="blog-img">
-                                    <a href="blog-details.html">
+                                    <a href="blog-details.php">
                                         <img src="assets/img/blog/blog_3_1.png" alt="blog image">
                                     </a>
                                 </div>
                                 <div class="blog-content">
                                     <div class="post-meta-item blog-meta">
-                                        <a href="blog.html">March 26, 2024</a>
-                                        <a href="blog.html">Branding</a>
+                                        <a href="blog.php">March 26, 2024</a>
+                                        <a href="blog.php">Branding</a>
                                     </div>
-                                    <h4 class="blog-title"><a href="blog-details.html">Everything You Should Know About Return</a></h4>
-                                    <a href="blog-details.html" class="link-btn">
+                                    <h4 class="blog-title"><a href="blog-details.php">Everything You Should Know About Return</a></h4>
+                                    <a href="blog-details.php" class="link-btn">
                                         <span class="link-effect">
                                             <span class="effect-1">READ MORE</span>
                                             <span class="effect-1">READ MORE</span>
@@ -327,17 +327,17 @@
                         <div class="blog-grid-static">
                             <div class="blog-grid">
                                 <div class="blog-img">
-                                    <a href="blog-details.html">
+                                    <a href="blog-details.php">
                                         <img src="assets/img/blog/blog_3_2.png" alt="blog image">
                                     </a>
                                 </div>
                                 <div class="blog-content">
                                     <div class="post-meta-item blog-meta">
-                                        <a href="blog.html">March 26, 2024</a>
-                                        <a href="blog.html">Branding</a>
+                                        <a href="blog.php">March 26, 2024</a>
+                                        <a href="blog.php">Branding</a>
                                     </div>
-                                    <h4 class="blog-title"><a href="blog-details.html">6 Big Commerce Design Tips For Big Results</a></h4>
-                                    <a href="blog-details.html" class="link-btn">
+                                    <h4 class="blog-title"><a href="blog-details.php">6 Big Commerce Design Tips For Big Results</a></h4>
+                                    <a href="blog-details.php" class="link-btn">
                                         <span class="link-effect">
                                             <span class="effect-1">READ MORE</span>
                                             <span class="effect-1">READ MORE</span>
@@ -350,17 +350,17 @@
                         <div class="blog-grid-static">
                             <div class="blog-grid">
                                 <div class="blog-img">
-                                    <a href="blog-details.html">
+                                    <a href="blog-details.php">
                                         <img src="assets/img/blog/blog_3_3.png" alt="blog image">
                                     </a>
                                 </div>
                                 <div class="blog-content">
                                     <div class="post-meta-item blog-meta">
-                                        <a href="blog.html">March 26, 2024</a>
-                                        <a href="blog.html">Branding</a>
+                                        <a href="blog.php">March 26, 2024</a>
+                                        <a href="blog.php">Branding</a>
                                     </div>
-                                    <h4 class="blog-title"><a href="blog-details.html">Four Steps to Conduct a Successful Usability</a></h4>
-                                    <a href="blog-details.html" class="link-btn">
+                                    <h4 class="blog-title"><a href="blog-details.php">Four Steps to Conduct a Successful Usability</a></h4>
+                                    <a href="blog-details.php" class="link-btn">
                                         <span class="link-effect">
                                             <span class="effect-1">READ MORE</span>
                                             <span class="effect-1">READ MORE</span>
@@ -389,7 +389,7 @@
                     </div>
                 </div>
                 <div class="col-xl-auto">
-                    <a class="circle-btn btn bg-theme text-title gsap-magnetic" href="contact.html">
+                    <a class="circle-btn btn bg-theme text-title gsap-magnetic" href="contact.php">
                         <span class="link-effect">
                             <span class="effect-1">LET'S TALK</span>
                             <span class="effect-1">LET'S TALK</span>

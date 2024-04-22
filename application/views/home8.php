@@ -11,7 +11,7 @@
                     </div>
                     <div class="col-xl-4 col-lg-5 offset-xl-8 offset-lg-7">
                         <p class="hero-text wow img-custom-anim-right animated text-smoke">We are digital agency that helps immersive and engaging user experiences that</p>
-                        <a href="project.html" class="btn style2 mt-40 wow img-custom-anim-right animated">
+                        <a href="project.php" class="btn style2 mt-40 wow img-custom-anim-right animated">
                             <span class="link-effect">
                                 <span class="effect-1">WORK WITH ME</span>
                                 <span class="effect-1">WORK WITH ME</span>
@@ -36,10 +36,10 @@
                             <img src="assets/img/icon/feature-icon1-1.svg" alt="icon">
                         </div>
                         <h4 class="feature-card-title">
-                            <a href="project.html">Digital Branding</a>
+                            <a href="project.php">Digital Branding</a>
                         </h4>
                         <p class="feature-card-text">We care success relationships fuel success we love building</p>
-                        <a href="project-details.html" class="link-btn">
+                        <a href="project-details.php" class="link-btn">
                             <span class="link-effect">
                                 <span class="effect-1">VIEW DETAILS</span>
                                 <span class="effect-1">VIEW DETAILS</span>
@@ -54,10 +54,10 @@
                             <img src="assets/img/icon/feature-icon1-2.svg" alt="icon">
                         </div>
                         <h4 class="feature-card-title">
-                            <a href="project.html">Interaction Design</a>
+                            <a href="project.php">Interaction Design</a>
                         </h4>
                         <p class="feature-card-text">We care success relationships fuel success we love building</p>
-                        <a href="project-details.html" class="link-btn">
+                        <a href="project-details.php" class="link-btn">
                             <span class="link-effect">
                                 <span class="effect-1">VIEW DETAILS</span>
                                 <span class="effect-1">VIEW DETAILS</span>
@@ -72,10 +72,10 @@
                             <img src="assets/img/icon/feature-icon1-4.svg" alt="icon">
                         </div>
                         <h4 class="feature-card-title">
-                            <a href="project.html">Motion Design</a>
+                            <a href="project.php">Motion Design</a>
                         </h4>
                         <p class="feature-card-text">We care success relationships fuel success we love building</p>
-                        <a href="project-details.html" class="link-btn">
+                        <a href="project-details.php" class="link-btn">
                             <span class="link-effect">
                                 <span class="effect-1">VIEW DETAILS</span>
                                 <span class="effect-1">VIEW DETAILS</span>
@@ -102,7 +102,7 @@
             </div>
             <div class="row gy-4">
                 <div class="col-12">
-                    <a href="project-details.html" class="portfolio-wrap style3">
+                    <a href="project-details.php" class="portfolio-wrap style3">
                         <div class="portfolio-thumb">
                             <img src="assets/img/portfolio/portfolio6_1.jpg" alt="portfolio">
                         </div>
@@ -128,7 +128,7 @@
                     </a>
                 </div>
                 <div class="col-12">
-                    <a href="project-details.html" class="portfolio-wrap style3">
+                    <a href="project-details.php" class="portfolio-wrap style3">
                         <div class="portfolio-thumb">
                             <img src="assets/img/portfolio/portfolio6_2.jpg" alt="portfolio">
                         </div>
@@ -154,7 +154,7 @@
                     </a>
                 </div>
                 <div class="col-12">
-                    <a href="project-details.html" class="portfolio-wrap style3">
+                    <a href="project-details.php" class="portfolio-wrap style3">
                         <div class="portfolio-thumb">
                             <img src="assets/img/portfolio/portfolio6_3.jpg" alt="portfolio">
                         </div>
@@ -180,7 +180,7 @@
                     </a>
                 </div>
                 <div class="col-12">
-                    <a href="project-details.html" class="portfolio-wrap style3">
+                    <a href="project-details.php" class="portfolio-wrap style3">
                         <div class="portfolio-thumb">
                             <img src="assets/img/portfolio/portfolio6_4.jpg" alt="portfolio">
                         </div>
@@ -206,7 +206,7 @@
                     </a>
                 </div>
                 <div class="col-12 text-center">
-                    <a href="project.html" class="btn style2 mt-30">
+                    <a href="project.php" class="btn style2 mt-30">
                         <span class="link-effect">
                             <span class="effect-1">VIEW ALL PROJECTS</span>
                             <span class="effect-1">VIEW ALL PROJECTS</span>
@@ -376,17 +376,17 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-card style3">
                         <div class="blog-img">
-                            <a href="blog-details.html">
+                            <a href="blog-details.php">
                                 <img src="assets/img/blog/blog_1_1.png" alt="blog image">
                             </a>
                         </div>
                         <div class="blog-content">
                             <div class="post-meta-item blog-meta">
-                                <a href="blog.html">March 26, 2024</a>
-                                <a href="blog.html">Branding</a>
+                                <a href="blog.php">March 26, 2024</a>
+                                <a href="blog.php">Branding</a>
                             </div>
-                            <h4 class="blog-title"><a href="blog-details.html">Everything You Should Know About Return</a></h4>
-                            <a href="blog-details.html" class="link-btn">
+                            <h4 class="blog-title"><a href="blog-details.php">Everything You Should Know About Return</a></h4>
+                            <a href="blog-details.php" class="link-btn">
                                 <span class="link-effect">
                                     <span class="effect-1">READ MORE</span>
                                     <span class="effect-1">READ MORE</span>
@@ -399,17 +399,17 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-card style3">
                         <div class="blog-img">
-                            <a href="blog-details.html">
+                            <a href="blog-details.php">
                                 <img src="assets/img/blog/blog_1_2.png" alt="blog image">
                             </a>
                         </div>
                         <div class="blog-content">
                             <div class="post-meta-item blog-meta">
-                                <a href="blog.html">March 26, 2024</a>
-                                <a href="blog.html">Branding</a>
+                                <a href="blog.php">March 26, 2024</a>
+                                <a href="blog.php">Branding</a>
                             </div>
-                            <h4 class="blog-title"><a href="blog-details.html">6 Big Commerce Design Tips For Big Results</a></h4>
-                            <a href="blog-details.html" class="link-btn">
+                            <h4 class="blog-title"><a href="blog-details.php">6 Big Commerce Design Tips For Big Results</a></h4>
+                            <a href="blog-details.php" class="link-btn">
                                 <span class="link-effect">
                                     <span class="effect-1">READ MORE</span>
                                     <span class="effect-1">READ MORE</span>
@@ -422,17 +422,17 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="blog-card style3">
                         <div class="blog-img">
-                            <a href="blog-details.html">
+                            <a href="blog-details.php">
                                 <img src="assets/img/blog/blog_1_3.png" alt="blog image">
                             </a>
                         </div>
                         <div class="blog-content">
                             <div class="post-meta-item blog-meta">
-                                <a href="blog.html">March 26, 2024</a>
-                                <a href="blog.html">Branding</a>
+                                <a href="blog.php">March 26, 2024</a>
+                                <a href="blog.php">Branding</a>
                             </div>
-                            <h4 class="blog-title"><a href="blog-details.html">Four Steps to Conduct a Successful Usability</a></h4>
-                            <a href="blog-details.html" class="link-btn">
+                            <h4 class="blog-title"><a href="blog-details.php">Four Steps to Conduct a Successful Usability</a></h4>
+                            <a href="blog-details.php" class="link-btn">
                                 <span class="link-effect">
                                     <span class="effect-1">READ MORE</span>
                                     <span class="effect-1">READ MORE</span>
