@@ -2036,6 +2036,7 @@ textarea.is-invalid {
   padding: 21.5px 40px;
   border-radius: 0;
   overflow: hidden;
+  margin-top: 50px;
 }
 .btn:focus, .btn:hover, .btn.active {
   color: var(--white-color);
@@ -2473,6 +2474,8 @@ textarea.is-invalid {
     padding: 15.5px 20px;
     font-size: 12px;
     font-weight: 500;
+margin-left:-0px;
+
   }
   .btn.circle-btn {
     height: 120px;
@@ -3027,9 +3030,9 @@ picture.jarallax-img img {
   background-color: var(--gray-color) !important;
 }
 
-.bg-title {
+/* .bg-title {
   background-color: var(--title-color) !important;
-}
+} */
 
 .background-image,
 [data-bg-src] {
@@ -6525,7 +6528,7 @@ ul.wp-block-latest-posts li:last-child {
 /* Extra small devices */
 @media (max-width: 575px) {
   .hero-style7 {
-    padding: 145px 0 40px;
+    padding: 74px 0 40px;
   }
   .hero-style7 .hero-title {
     font-size: 39px;
@@ -10637,11 +10640,121 @@ blockquote p {
   .cba{
       justify-content: center;
       align-items: center;
-      margin-left: 60px;
-      margin-right: 60px;
-   
+      margin-left: 70px;
+      margin-right: 70px;
       height:auto;
   }
 }
 
+@media screen and (max-width: 768px) {
+  .xyz{
+    font-size: 10px;
+  }
+}
+/* @media screen and (max-width: 768px) {
+  .pen{
+    height:80px;
+  }
+} */
+
 /*# sourceMappingURL=style.css.map */
+.bttn{
+  position: relative;
+  z-index: 2;
+  vertical-align: middle;
+  display: inline-block;
+  border: none;
+  text-align: center;
+  background-color: var(--title-color);
+  color: var(--white-color);
+  font-family: var(--title-font);
+  font-size: 14px;
+  font-weight: 600;
+  padding: 21.5px 40px;
+  border-radius: 0;
+  overflow: hidden;
+  margin-top: 50px;
+margin-left: 600px;
+}
+@media screen and (max-width: 768px){
+  .bttn{
+    margin-left:110px;
+  }
+}
+/* .card {
+  width: 300px;
+  border-radius: 8px;
+  box-shadow: 4px 8px 8px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  margin: 20px;
+  background-color: #fff;
+  display:flex;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.card-content {
+  padding: 20px;
+}
+
+.card-title {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.card-description {
+  font-size: 16px;
+  color: #666;
+} */
+.btttn{
+  position: relative;
+  z-index: 2;
+  vertical-align: middle;
+  display: inline-block;
+  border: none;
+  text-align: center;
+  background-color: var(--title-color);
+  color: var(--white-color);
+  font-family: var(--title-font);
+  font-size: 14px;
+  font-weight: 600;
+  padding: 21.5px 40px;
+  border-radius: 0;
+  overflow: hidden;
+  margin-bottom: 40px;
+margin-left: 470px;
+}
+@media screen and (max-width: 768px){
+  .btttn{
+    margin-left:40px;
+    font-size:10px;
+  }
+}
+.bttnn{
+  position: relative;
+  z-index: 2;
+  vertical-align: middle;
+  display: inline-block;
+  border: none;
+  text-align: center;
+  background-color: black;
+  color: var(--white-color);
+  font-family: var(--title-font);
+  font-size: 14px;
+  font-weight: 600;
+  padding: 21.5px 40px;
+  border-radius: 0;
+  overflow: hidden;
+  margin-bottom: 40px;
+  margin-left: 550px;
+}
+@media screen and (max-width: 768px){
+  .bttnn{
+    margin-left:40px;
+    font-size:10px;
+  }
+}
